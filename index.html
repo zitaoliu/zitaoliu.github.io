@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% capture index %}{% include index_content.md %}{% endcapture %}
+    {{ index | markdownify }}    
+</div>
+
