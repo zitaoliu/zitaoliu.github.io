@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /CV/
+permalink: /cv/
 ---
 
 ## Research Interests
