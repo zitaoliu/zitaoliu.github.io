@@ -84,4 +84,6 @@ permalink: /cv/
 
 
 
-
+<div class="mt3">
+  <a href="{{ site.baseurl }}/download/zitao-cv.pdf" class="button button-blue button-big">PDF Version</a>
+</div>
