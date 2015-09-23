@@ -10,7 +10,7 @@ categories: cs algorithm
 
 更general一点，我们可以写成 \\(\mathcal{O}(g(n))\\)，这个东西是什么吗，其实他是一个集合，表示所以满足条件的一系列函数，这一系列函数有什么特点呢？那就是 \\(g(n)\\)是他们的上界，更准确的说，是一个constant \\(c\\)， \\(cg(n)\\) 是他们的上界。如下图，（截自算法导论）
 
-![big O notation g function illustrationn](/images/posts/{{ page.date | date: site.date_dir_format }}/big-o-g-function.jpg)
+![big O notation g function illustration](/images/posts/{{ page.date | date: site.date_dir_format }}/big-o-g-function.jpg)
 
 假设 \\(f(n)\\) 表示我们 quick sort 的时间，我们写作 \\(f(n) = \mathcal{O}(n\log n)\\)，这时候你可能要问了，刚才上面不是说 \\(\mathcal{O}(n\log n)\\) 表示一个集合吗，这么集合里面显然都是函数，那怎么能写 **函数 = 函数的集合**呢？没错，其实这样写确实不好，但是我们现在已经约定俗成了，这里的等号就表示元素和集合关系的属于的符号。
 
@@ -31,7 +31,7 @@ categories: cs algorithm
 下面是算法导论里面完整的图。
 
 
-![big O notation g function illustrationn](/images/posts/{{ page.date | date: site.date_dir_format }}/big-o-g-function-all.jpg)
+![big O notation g function illustration](/images/posts/{{ page.date | date: site.date_dir_format }}/big-o-g-function-all.jpg)
 
 
 

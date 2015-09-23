@@ -26,7 +26,7 @@ categories: cs algorithm
 
 2. 动态规划(Dynamic Programming)
 
-3. NP-Complete问题
+3. [NP-Complete问题](/cs/algorithm/2011/04/15/introduction-to-algorithm-np-problem/)
 
 4. 分治问题(Divide and Conquer)
 
