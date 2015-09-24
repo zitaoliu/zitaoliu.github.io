@@ -30,7 +30,7 @@ categories: cs algorithm
 
 4. 分治问题(Divide and Conquer)
 
-5. 问题复杂度分析(Problem Complexity and Adversarial Lower Bound)
+5. [问题复杂度分析(Problem Complexity and Adversarial Lower Bound)](/cs/algorithm/2011/04/20/introduction-to-algorithm-problem-complexity-and-adversarial-lower-bound/)
 
 6. 平均情况分析和随机算法(Average case analysis and randomized algorithm)
 
