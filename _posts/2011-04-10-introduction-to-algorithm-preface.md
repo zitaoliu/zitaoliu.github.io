@@ -28,7 +28,7 @@ categories: cs algorithm
 
 3. [NP-Complete问题](/cs/algorithm/2011/04/15/introduction-to-algorithm-np-problem/)
 
-4. 分治问题(Divide and Conquer)
+4. [分治问题(Divide and Conquer)](/cs/algorithm/2011/04/19/introduction-to-algorithm-divide-and-conquer/)
 
 5. [问题复杂度分析(Problem Complexity and Adversarial Lower Bound)](/cs/algorithm/2011/04/20/introduction-to-algorithm-problem-complexity-and-adversarial-lower-bound/)
 
