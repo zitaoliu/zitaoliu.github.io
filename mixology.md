@@ -16,25 +16,31 @@ After two years self exploration, it's time to get professional guidance as well
 
 ### Kamikazee
 
-Kamikazee, one of my fav drink. It also has a Chinses name "神风特攻队", which are suicide attacks by Japanese military aviators in World War II. What a tragic life! Vodka, Triple Sec and lime juice. I add fresh muddled lime to make it as a J's speciality.
+Kamikazee, one of my fav drink. It also has a Chinese name "神风特攻队", which are suicide attacks by Japanese military aviators in World War II. What a tragic life! Vodka, Triple Sec and lime juice. I add fresh muddled lime to make it as a J's specialty.
 
-![Mixology Certificate from ABC Bartending School in Seattle, WA.](/images/mixology/2015-09-08-kamikazee.jpg)
+![kamikazee.](/images/mixology/2015-09-08-kamikazee.jpg)
 
 ### Cosmopolitan
 
-![Mixology Certificate from ABC Bartending School in Seattle, WA.](/images/mixology/2015-09-12-cosmo.jpg)
+Cosmopolitan, often refers as to "Cosmo", is arguably one of the widely drink appeared in the movie which is made with vodka, triple sec, cranberry juice, and freshly squeezed or sweetened lime juice. In Chinese, we call it "大都会". The Cosmopolitan gained popularity in the 1990s. Furthermore, it got popularized among young women by its frequent mention on the television program "Sex and the City". 
+
+![cosmo.](/images/mixology/2015-09-12-cosmo.jpg)
 
 ### Lemon Drop
 
 Lemon drop (坠落的柠檬). Arguably one of the girl fav drinks. Most people (Chinese) heard of "lemon drop" is due to the mania of HarryPotter. It's easy to make it and it tastes perfect: sweet & sour. I like to add muddled lemon to make it fresh. Ingredients: Vodka, Triple sec and sour. 
 
-![Mixology Certificate from ABC Bartending School in Seattle, WA.](/images/mixology/2015-09-18-lemon-drop.jpg)
+![lemon-drop.](/images/mixology/2015-09-18-lemon-drop.jpg)
 
 ### SPA Cosmo Martini
 
 SPA cosmo martini. Had this drink with Shumo on my Bday. It was fantastic. Today I made it. Such a pleasant smell with muddled cucumber inside. Furthermore, it is naturally layered! Feel accomplished! SPA COSMO MARTINI = Vodka + Fresh muddled cucumber + Cranberry juice + Fresh squeezed lime!
 
-![Mixology Certificate from ABC Bartending School in Seattle, WA.](/images/mixology/2015-09-21-spa-cosmo-martini.jpg)
+![spa-cosmo-martini.](/images/mixology/2015-09-21-spa-cosmo-martini.jpg)
 
+### Caipirissima
 
+Caipirissima. A rock glass filled with a whole lime! It has an intriguing rustic edginess. To make it? Very simple: Vodka + Simple Syrup + Muddled lime + Lime wedge. And of course, ICE.
+
+![Caipirissima.](/images/mixology/2015-09-25-caipirissima.jpg)
 

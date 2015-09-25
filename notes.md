@@ -8,6 +8,7 @@ permalink: /notes/
 * [A Tutorial on Spectral Clustering](/cs/ml/2011/10/27/spectral-clustering-tutorial/)
 * [A Tutorial on Interactive Machine Learning](/cs/ml/2012/12/14/interactive-machine-learning-tutorial/)
 * [A Tutorial on Probabilistic Models of Time Series and Sequences](/cs/ml/2014/10/09/probabilistic-models-of-time-series-and-sequences-tutorial/)
+* [A Tutorial on Non-Technical Basics of Hadoop and Spark](/cs/ml/2015/09/25/hadoop-spark-non-technical-basics/)
 
 ### Notes on Algorithms (Chinese)
 
