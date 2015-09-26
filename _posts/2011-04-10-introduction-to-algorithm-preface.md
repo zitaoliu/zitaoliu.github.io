@@ -22,9 +22,9 @@ categories: cs algorithm
 
 0. [符号标记以及基本数学公式 (Notation)](/cs/algorithm/2011/04/12/introduction-to-algorithm-notation/)
 
-1. [贪心算法（Greedy Algorithm）](/cs/algorithm/2011/04/13/introduction-to-algorithm-greddy/)
+1. [贪心算法（Greedy Algorithm](/cs/algorithm/2011/04/13/introduction-to-algorithm-greddy/)
 
-2. 动态规划(Dynamic Programming)
+2. [动态规划(Dynamic Programming)](/cs/algorithm/2011/04/14/introduction-to-algorithm-dynamic-programming/)
 
 3. [NP-Complete问题](/cs/algorithm/2011/04/15/introduction-to-algorithm-np-problem/)
 

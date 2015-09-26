@@ -15,7 +15,7 @@ categories: cs algorithm
 
 回归主题：
 
-当然，我们知道，所谓lower bound，也就是找 \\(\Omega(n)\\)了。（不清楚的童鞋可以看一下 [漫谈算法（零）符号标记以及基本数学公式](/cs/algorithm/2011/04/12/introduction-to-algorithm-notation/)）
+当然，我们知道，所谓lower bound，也就是找 \\(\Omega(n)\\)了。（不清楚的童鞋可以看一下 [漫谈算法（零）符号标记以及基本数学公式]({% post_url 2011-04-12-introduction-to-algorithm-notation %})
 
 还是决定举一个例子慢慢展开。
 
@@ -51,7 +51,7 @@ Let's get started~
 
 \\[ h \geq \log(n!) \\] 
 
-所以 \\( h = \Omega(n \log n) \\)。（不明真相的童鞋请看 [漫谈算法（零）符号标记以及基本数学公式](/cs/algorithm/2011/04/12/introduction-to-algorithm-notation/)，里面有一些basic的数学公式）
+所以 \\( h = \Omega(n \log n) \\)。（不明真相的童鞋请看 [漫谈算法（零）符号标记以及基本数学公式]({% post_url 2011-04-12-introduction-to-algorithm-notation %})，里面有一些basic的数学公式）
 
 这说明了什么，这说明了对于基于比较的排序算法，我们至少需要 \\( \Omega(n \log n) \\)次比较，不然最下面那支的叶子节点的结果我们就得不到。当然，最重要的的是，我们这里得出的结论是对于任意的排序算法，任意的哦！
 
