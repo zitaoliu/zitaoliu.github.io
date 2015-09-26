@@ -16,7 +16,7 @@ permalink: /notes/
 
 	0. [符号标记以及基本数学公式 (Notation)]({% post_url 2011-04-12-introduction-to-algorithm-notation %})
 
-	1. [贪心算法（Greedy Algorithm]({% post_url 2011-04-13-introduction-to-algorithm-greddy %})
+	1. [贪心算法(Greedy Algorithm)]({% post_url 2011-04-13-introduction-to-algorithm-greddy %})
 
 	2. [动态规划(Dynamic Programming)]({% post_url 2011-04-14-introduction-to-algorithm-dynamic-programming %})
 
