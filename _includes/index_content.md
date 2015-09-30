@@ -1,8 +1,8 @@
 ##Jerry Zitao Liu 刘子韬
 
-I am a Ph.D. Candidate in [Department of Computer Science](http://www.cs.pitt.edu/) at [University of Pittsburgh](http://www.pitt.edu/). I thrill to develop machine learning and data mining algorithmic solutions with theoretical guarantees to real-world problems from nosiy, large-scale, heterogeneous and sparse data. 
+I am a Ph.D. Candidate in [Department of Computer Science](http://www.cs.pitt.edu/) at [University of Pittsburgh](http://www.pitt.edu/). I thrill to develop machine learning and data mining algorithmic solutions with theoretical guarantees to real-world problems from noisy, large-scale, heterogeneous and sparse data. 
 
-I received my Bachelor from [Wuhan University](http://en.whu.edu.cn/) in China. Durning my past 5 years of Ph.D. life, I worked as a research intern at [Alibaba Group](http://data.alibaba.com/)(2015), [Yahoo! Labs](http://labs.yahoo.com/)(2014), [eBay Research Lab](http://labs.ebay.com/)(2013), and was a software engineer intern at [Google](http://www.google.com/)(2012).
+I received my Bachelor from [Wuhan University](http://en.whu.edu.cn/) in China. During my past 5 years of Ph.D. life, I worked as a research intern at [Alibaba Group](http://data.alibaba.com/)(2015), [Yahoo! Labs](http://labs.yahoo.com/)(2014), [eBay Research Lab](http://labs.ebay.com/)(2013), and was a software engineer intern at [Google](http://www.google.com/)(2012).
 
 <div class="py2 index-footer">
   <img src="/images/index/me.jpeg" alt="Jerry Zitao Liu" class="index-avatar-me" />
