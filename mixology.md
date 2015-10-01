@@ -14,6 +14,11 @@ After two years self exploration, it's time to get professional guidance as well
 
 ![Mixology Certificate from ABC Bartending School in Seattle, WA.](/images/mixology/abc_degree.jpg)
 
+### Viva Villa
+
+Viva Villa, a sweet and sour cocktail made with tequila, lemon juice, lime juice and simple syrup. Sweet & Sour, a terrific company with dark night reading.
+
+![Viva Villa.](/images/mixology/2015-10-01-viva-villa.jpg)
 
 
 ### Grinch
