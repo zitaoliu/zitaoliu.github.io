@@ -7,7 +7,7 @@ categories: life
 ---
 
 
-![ml-group-in-pitt-university-of-pittsburgh](/images/posts/{{ page.date | date: site.date_dir_format }}/ml-group-in-pitt-university-of-pittsburgh.jpg)
+![ml-group-in-pitt-university-of-pittsburgh](/images/posts/{{ page.date | date: site.date_dir_format }}/ml-group-in-pitt-university-of-pittsburgh.JPG)
 
 Yesterday, our department [homepage](http://www.cs.pitt.edu/) officially announced that my advisor [Milos Hauskrecht](http://people.cs.pitt.edu/~milos) is promoted to be a full professor. Our group decides to buy a chocolate cake to celebrate it. [Eric](http://people.cs.pitt.edu/~eth13/) bought a big cake from Costco. 
 
