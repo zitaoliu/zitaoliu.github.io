@@ -14,6 +14,13 @@ After two years self exploration, it's time to get professional guidance as well
 
 ![Mixology Certificate from ABC Bartending School in Seattle, WA.](/images/mixology/abc_degree.jpg)
 
+### Tom Collins
+
+Identified as "a favorite drink in demand everywhere", the Tom Collins is a Collins cocktail made from gin, lemon juice, sugar and carbonated water. First memorialized in writing in 1876 by "the father of American mixology" Jerry Thomas.
+
+![Tom Collins.](/images/mixology/2015-10-09-tom-collins)
+
+
 ### Viva Villa
 
 Viva Villa, a sweet and sour cocktail made with tequila, lemon juice, lime juice and simple syrup. Sweet & Sour, a terrific company with dark night reading.
