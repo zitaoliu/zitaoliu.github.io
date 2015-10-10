@@ -18,7 +18,7 @@ After two years self exploration, it's time to get professional guidance as well
 
 Identified as "a favorite drink in demand everywhere", the Tom Collins is a Collins cocktail made from gin, lemon juice, sugar and carbonated water. First memorialized in writing in 1876 by "the father of American mixology" Jerry Thomas.
 
-![Tom Collins.](/images/mixology/2015-10-09-tom-collins)
+![Tom Collins.](/images/mixology/2015-10-09-tom-collins.jpg)
 
 
 ### Viva Villa
