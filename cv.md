@@ -48,9 +48,11 @@ permalink: /cv/
 
 ## Honors & Awards
 
+* Best Graduate Poster Award, University of Pittsburgh 2015
+* ICDM Student Travel Award  [2015](http://icdm2015.stonybrook.edu/)
 * [Andrew Mellon Predoctoral Fellowship](http://www.asgraduate.pitt.edu/node/336), The Dietrich School of Arts & Sciences, University of Pittsburgh 2015
 * People's Choice Graduate Poster Winner, Computer Science Day, University of Pittsburgh 2015
-* Best Graduate Poster Runner-Up, Computer Science Day, University of Pittsburgh 2014
+* Best Graduate Poster Runner-Up Award, Computer Science Day, University of Pittsburgh 2014
 * SDM Student Travel Award  [2013](http://www.siam.org/meetings/sdm13/), [2014](http://www.siam.org/meetings/sdm14/)
 * ICML Student Travel Award  [2012](http://icml.cc/2012/)
 * [Arts and Sciences Fellowship](http://www.asgraduate.pitt.edu/node/336), University of Pittsburgh  2010
