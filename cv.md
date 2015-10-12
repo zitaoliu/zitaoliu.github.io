@@ -48,7 +48,7 @@ permalink: /cv/
 
 ## Honors & Awards
 
-* Best Graduate Poster Award, University of Pittsburgh 2015
+* Best Graduate Poster Award, Taste of Wine and Research, University of Pittsburgh 2015
 * ICDM Student Travel Award  [2015](http://icdm2015.stonybrook.edu/)
 * [Andrew Mellon Predoctoral Fellowship](http://www.asgraduate.pitt.edu/node/336), The Dietrich School of Arts & Sciences, University of Pittsburgh 2015
 * People's Choice Graduate Poster Winner, Computer Science Day, University of Pittsburgh 2015
