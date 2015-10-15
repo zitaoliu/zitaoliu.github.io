@@ -8,7 +8,7 @@ permalink: /mixology/
 
 ### When I am not doing research and building things, I like to make cocktails. A. Lot.
 
-After two years self exploration, it's time to get professional guidance as well as bells and whistles. Still on my way to mixology but milestone achieved: got my certificate after four full days training and the exam from [ABC Bartending School](http://www.abcbartending.com/index.php) in Seattle, WA!
+After two years (since 2013) self exploration, it's time to get professional guidance as well as bells and whistles. Still on my way to mixology but milestone achieved: got my certificate after four full days training and the exam from [ABC Bartending School](http://www.abcbartending.com/index.php) in Seattle, WA!
 
 ![Mixology Certificate from ABC Bartending School in Seattle, WA.](/images/mixology/abc_graduate_photo.jpg)
 

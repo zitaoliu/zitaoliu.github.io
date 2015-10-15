@@ -8,7 +8,7 @@ permalink: /publications/
 ## Publications
 
 ### Clinical Time Series Analysis
-* [J1] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Clinical Time Series Prediction: Towards A Hierarchical Dynamical System Framework. [Artificial Intelligence in Medicine](http://www.journals.elsevier.com/artificial-intelligence-in-medicine/), 2014. <a href="{{ site.baseurl }}/download/aiim2014.pdf" class="button button-blue button-small">PDF</a>
+* [J1] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Clinical Time Series Prediction: Towards A Hierarchical Dynamical System Framework. [Artificial Intelligence in Medicine(AIIM)](http://www.journals.elsevier.com/artificial-intelligence-in-medicine/), 2014. <a href="{{ site.baseurl }}/download/aiim2014.pdf" class="button button-blue button-small">PDF</a>
 
 * [C3] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). A Regularized Linear Dynamical System Framework for Multivariate Time Series Analysis. [The Twenty-Ninth AAAI Conference on Artificial Intelligence(AAAI)](http://www.aaai.org/Conferences/AAAI/aaai15.php), 2015. <a href="{{ site.baseurl }}/download/aaai2015.pdf" class="button button-blue button-small">PDF</a> <a href="{{ site.baseurl }}/download/aaai2015_sup.pdf" class="button button-blue button-small">Supplemental Material</a> <a href="https://github.com/zitaoliu/rLDS_AAAI2015/" class="button button-blue button-small">Code</a>
 
