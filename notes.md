@@ -5,6 +5,8 @@ permalink: /notes/
 
 ### Notes on Convex Optimization
 
+All are based on the class ([10-725 Optimization](http://www.cs.cmu.edu/~ggordon/10725-F12/)) I took in Fall 2012 taught by [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/) in [CMU](http://www.cmu.edu).
+
 * [Proof of "For convex optimization problems, local minima are global minima."]({% post_url 2015-10-21-convex-optimization-local-minima-are-global-minima %})
 
 ### Tutorials (English)
