@@ -29,6 +29,8 @@ where $$f$$ and $$g_i$$ are convex and $$D$$ is the feasible set, i.e., $$ D = d
 
 Now lets look at how to prove the following statement. It turns out that the proof is pretty easy by using "proof by contradiction".
 
+### Theorem.
+
 > For convex optimization problems, local minima are global minima.
 
 
