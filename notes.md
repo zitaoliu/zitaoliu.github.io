@@ -18,6 +18,8 @@ All are based on the class ([10-725 Optimization](http://www.cs.cmu.edu/~ggordon
 
 ### Notes on Algorithms (Chinese) 
 
+All are based on the class ([CS 2510](http://people.cs.pitt.edu/~kirk/cs2150/)) I took in Spring 2011 taught by [Kirk Pruhs](http://people.cs.pitt.edu/~kirk/) in [PITT](http://www.pitt.edu).
+
 * [漫谈算法 - 序]({% post_url 2011-04-10-introduction-to-algorithm-preface %})
 
 * [符号标记以及基本数学公式 (Notation)]({% post_url 2011-04-12-introduction-to-algorithm-notation %})
