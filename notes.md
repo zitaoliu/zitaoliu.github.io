@@ -3,18 +3,20 @@ layout: page
 permalink: /notes/
 ---
 
-### Notes on Convex Optimization
-
-All are based on the class ([10-725 Optimization](http://www.cs.cmu.edu/~ggordon/10725-F12/)) I took in Fall 2012 taught by [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/) in [CMU](http://www.cmu.edu).
-
-* [Proof of "For convex optimization problems, local minima are global minima."]({% post_url 2015-10-21-convex-optimization-local-minima-are-global-minima %})
-
 ### Tutorials (English)
 
 * [A Tutorial on Spectral Clustering]({% post_url 2011-10-27-spectral-clustering-tutorial %})
 * [A Tutorial on Interactive Machine Learning]({% post_url 2012-12-14-interactive-machine-learning-tutorial %})
 * [A Tutorial on Probabilistic Models of Time Series and Sequences]({% post_url 2014-10-09-probabilistic-models-of-time-series-and-sequences-tutorial %})
 * [A Tutorial on Non-Technical Basics of Hadoop and Spark]({% post_url 2015-09-25-hadoop-spark-non-technical-basics %})
+
+### Notes on Convex Optimization
+
+All are based on the class ([10-725 Optimization](http://www.cs.cmu.edu/~ggordon/10725-F12/)) I took in Fall 2012 taught by [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/) in [CMU](http://www.cmu.edu).
+
+* [Proof of "For convex optimization problems, local minima are global minima."]({% post_url 2015-10-21-convex-optimization-local-minima-are-global-minima %})
+
+
 
 ### Notes on Algorithms (Chinese) 
 
