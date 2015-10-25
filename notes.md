@@ -17,8 +17,9 @@ All are based on the class ([10-725 Optimization](http://www.cs.cmu.edu/~ggordon
 * [Proof of "For convex optimization problems, local minima are global minima."]({% post_url 2015-10-21-convex-optimization-local-minima-are-global-minima %})
 * [First-Order Optimality Condition]({% post_url 2015-10-22-convex-optimization-first-order-optimality-condition %})
 * [Lipschitz Gradients and Their Three Equivalent Conditions]({% post_url 2015-10-23-convex-optimization-lipschitz-gradients-three-equivalent-conditions %})
-* [Strong Convexity and Their Four Equivalent Conditions]({% post_url 2015-10-23-convex-optimization-strong-convexity-four-equivalent-conditions %})
+* [Strong Convexity and Their Four Equivalent Conditions]({% post_url 2015-10-24-convex-optimization-strong-convexity-four-equivalent-conditions %})
 * [Gradient Descent Essentials]({% post_url 2015-10-27-convex-optimization-gradient-descent %})
+
 
 ### Notes on Algorithms (Chinese) 
 
