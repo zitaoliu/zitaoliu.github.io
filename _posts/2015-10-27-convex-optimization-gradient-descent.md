@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Gradient Descent Essentials
-date:       2015-10-22 15:33:29
+date:       2015-10-27 15:33:29
 summary:    Gradient descent essentials - interpretation, how to choose step size and more.
 categories: cs ml optimization
 ---
