@@ -174,6 +174,12 @@ System.out.println(Integer.toBinaryString(c >>> 2));
 System.out.println(c >>> 2); 
 ~~~
 
+## Tricks 
 
+There are commonly used tricks involving bit shift operations:
+
+* Obtain the sign of the product or division of two integers: `boolean isNeg = (num1^num2) >>> 31 == 1;`
+
+* Get the right most bit of an integer: `(n & 1)`
 
 
