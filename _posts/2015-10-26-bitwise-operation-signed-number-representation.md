@@ -41,7 +41,7 @@ Some old machines actually used ones' complement in their implementations.
 
 Two's complement is the most popular and most widely used approach to represent numbers nowadays. In two's complement, there is a unique way to represent zero and it also avoids other problems in previous approaches. 
 
-In two's complement, it also has the sign bit, where all  positive numbers' sign bit is 0 and 1 for all negative numbers. The representation of positive numbers is same to sign-and-magnitude and ones' complement. For negative numbers, they are represented by the bit pattern which is one greater (in an unsigned sense) than the ones' complement of the positive value. 
+In two's complement, it also has the sign bit, where all positive numbers' sign bit is 0 and 1 for all negative numbers. The representation of positive numbers is same to sign-and-magnitude and ones' complement. For negative numbers, they are represented by the bit pattern which is one greater (in an unsigned sense) than the ones' complement of the positive value. 
 
 In other words, given a negative number, we get its two's complement representation in two steps:
 
@@ -100,10 +100,10 @@ int b = -4;
 System.out.println(Integer.toBinaryString(b));  
 
 // output: 1111 1111 1111 1111 1111 1111 1111 1110
-System.out.println(a >> 1); // output: -2  
+System.out.println(b >> 1); // output: -2  
 
-// output: 1111 1111 1111 1111 1111 1111 1111 1110      
-System.out.println(a >> 2); // output: -1
+// output: 1111 1111 1111 1111 1111 1111 1111 1111     
+System.out.println(b >> 2); // output: -1
 ~~~
 
 
@@ -180,6 +180,29 @@ There are commonly used tricks involving bit shift operations:
 
 * Obtain the sign of the product or division of two integers: `boolean isNeg = (num1^num2) >>> 31 == 1;`
 
-* Get the right most bit of an integer: `(n & 1)`
+* Get the right most bit of an integer: `(x & 1)`
+
+* Check if the integer is even or odd: `(x & 1) == 0`
+
+* Test if the n-th bit is set: `x & (1<<n)`
+
+* Set the n-th bit: `y = x | (1<<n)`
+
+* Unset the n-th bit: `y = x & ~(1<<n)`
+
+* Turn off the rightmost 1-bit: `y = x & (x-1)`
+
+* Turn on the rightmost 0-bit: `y = x | (x+1)`
+
+* Isolate the rightmost 1-bit: `y = x & (-x)`
+
+* Isolate the rightmost 0-bit: `y = ~x & (x+1)`
+
+* Right propagate the rightmost 1-bit: `y = x | (x-1)`
 
 
+The majority tricks listed above come from 
+
+* [http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/)
+
+* [http://graphics.stanford.edu/~seander/bithacks.html](http://graphics.stanford.edu/~seander/bithacks.html)
