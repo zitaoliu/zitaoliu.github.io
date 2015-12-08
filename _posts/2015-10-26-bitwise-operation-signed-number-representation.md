@@ -200,6 +200,8 @@ There are commonly used tricks involving bit shift operations:
 
 * Right propagate the rightmost 1-bit: `y = x | (x-1)`
 
+* Swapping values with XOR: `a ^= b; b ^= a; a ^= b;`
+
 
 The majority tricks listed above come from 
 
