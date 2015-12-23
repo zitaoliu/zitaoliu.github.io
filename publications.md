@@ -10,6 +10,8 @@ permalink: /publications/
 ### Clinical Time Series Analysis
 * [J1] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Clinical Time Series Prediction: Towards A Hierarchical Dynamical System Framework. [Artificial Intelligence in Medicine(AIIM)](http://www.journals.elsevier.com/artificial-intelligence-in-medicine/), 2014. <a href="{{ site.baseurl }}/download/aiim2014.pdf" class="button button-blue button-small">PDF</a>
 
+* [C5] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Learning Linear Dynamical Systems from Multivariate Time Series: A Matrix Factorization Based Framework. [SIAM International Conference on Data Mining(SDM)](http://www.siam.org/meetings/sdm16/), 2016. <a href="" class="button button-blue button-small">PDF</a> <a href="" class="button button-blue button-small">Supplemental Material</a> 
+
 * [C4] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Learning Adaptive Forecasting Models from Irregularly Sampled Multivariate Clinical Data. [The 30th AAAI Conference on Artificial Intelligence(AAAI)](http://www.aaai.org/Conferences/AAAI/aaai16.php), 2016. <a href="" class="button button-blue button-small">PDF</a> <a href="" class="button button-blue button-small">Supplemental Material</a> 
 
 
