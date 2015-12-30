@@ -48,6 +48,7 @@ permalink: /cv/
 
 ## Honors & Awards
 
+* AAAI Student Travel Award  [2016](http://www.aaai.org/Conferences/AAAI/aaai16.php)
 * Best Graduate Poster Award, Taste of Wine and Research, University of Pittsburgh 2015
 * ICDM Student Travel Award  [2015](http://icdm2015.stonybrook.edu/)
 * [Andrew Mellon Predoctoral Fellowship](http://www.asgraduate.pitt.edu/node/336), The Dietrich School of Arts & Sciences, University of Pittsburgh 2015
