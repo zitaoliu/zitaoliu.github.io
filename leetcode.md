@@ -7,9 +7,9 @@ permalink: /leetcode/
 
 ## Array
 
-### Regular Array Operation
+### Regular Array Operation (01/07/2016)
 
-* [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+* [*41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/)
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
@@ -37,7 +37,7 @@ permalink: /leetcode/
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 
 
-### Two-Pointer Scan (from two ends to middle)
+### Two-Pointer Scan (from two ends to middle) (01/08/2016)
 
 * [1. Two Sum](https://leetcode.com/problems/two-sum/)
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -54,7 +54,7 @@ permalink: /leetcode/
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 * [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 
-### Two-Point Scan (both from beginnings)
+### Two-Point Scan (both from beginnings) (01/08/2016)
 
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -65,7 +65,7 @@ permalink: /leetcode/
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 
-## Binary Search
+## Binary Search (01/07/2016)
 
 * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 * [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/)
@@ -81,7 +81,7 @@ permalink: /leetcode/
 
 ## Tree
 
-### Recursion
+### Recursion (01/09/2016)
 
 * [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 * [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
@@ -104,7 +104,7 @@ permalink: /leetcode/
 * [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 * [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
 
-### Traversal
+### Traversal (01/10/2016)
 
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
@@ -121,7 +121,7 @@ permalink: /leetcode/
 * [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 * [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 
-### Others
+### Others (01/10/2016)
 
 * [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 * [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
@@ -133,7 +133,7 @@ permalink: /leetcode/
 
 ## Dynamic Programming
 
-### Regular DP
+### Regular DP (01/12/2016)
 
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
@@ -158,7 +158,7 @@ permalink: /leetcode/
 * [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 * [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 
-### Global/Local Optima
+### Global/Local Optima (01/12/2016)
 
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -170,7 +170,7 @@ permalink: /leetcode/
 * [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 
-## LinkedList
+## LinkedList (01/13/2016)
 
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -268,7 +268,7 @@ permalink: /leetcode/
 
 ## Recursion
 
-### Regular Recursion
+### Regular Recursion (01/09/2016)
 
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
@@ -279,14 +279,14 @@ permalink: /leetcode/
 * [282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
 * [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/)
 
-
-### Recursion for Catalan Number 
+ 
+### Recursion for Catalan Number (01/09/2016)
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 * [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 
 
-### Recursion for NP problem
+### Recursion for NP problem (01/09/2016)
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 * [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
@@ -316,17 +316,7 @@ permalink: /leetcode/
 * [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)
 
 
-## Matrix
 
-* [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-* [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
-* [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-* [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-* [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-* [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-* [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
-* [289. Game of Life](https://leetcode.com/problems/game-of-life/)
-* [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 
 
 ## Graph Search
@@ -384,6 +374,18 @@ permalink: /leetcode/
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 * [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+## Matrix
+
+* [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+* [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+* [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+* [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+* [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+* [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+* [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+* [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+* [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 
 
 ### Union & Find
