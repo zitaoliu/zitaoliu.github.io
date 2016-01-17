@@ -7,7 +7,7 @@ permalink: /leetcode/
 
 ## Array
 
-### Regular Array Operation (done)
+### Regular Array Operation (check)
 
 * [*41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/)
@@ -20,7 +20,7 @@ permalink: /leetcode/
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
-* [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+* [*220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 * [*229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
@@ -32,11 +32,11 @@ permalink: /leetcode/
 * [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 * [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 * [*274. H-Index](https://leetcode.com/problems/h-index/)
-* [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)
+* [*280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 
 
-### Two-Pointer Scan (from two ends to middle) (done)
+### Two-Pointer Scan (from two ends to middle) (check)
 
 * [1. Two Sum](https://leetcode.com/problems/two-sum/)
 * [*11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -44,7 +44,7 @@ permalink: /leetcode/
 * [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 * [18. 4Sum](https://leetcode.com/problems/4sum/)
 * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
-* [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+* [*76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 * [135. Candy](https://leetcode.com/problems/candy/)
 * [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -52,7 +52,7 @@ permalink: /leetcode/
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 * [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 
-### Two-Point Scan (both from beginnings) (done)
+### Two-Point Scan (both from beginnings) (check)
 
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -79,30 +79,37 @@ permalink: /leetcode/
 
 ## Tree
 
-### Recursion (01/09/2016)
+### Recursion 
 
-* [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+#### Tree Path (done)
+* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+* [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+* [*112. Path Sum](https://leetcode.com/problems/path-sum/)
+* [*113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+* [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+* [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+* [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
+
+#### Other (done)
+
+* [*98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 * [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 * [100. Same Tree](https://leetcode.com/problems/same-tree/)
 * [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+* [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+* [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 * [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-* [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-* [112. Path Sum](https://leetcode.com/problems/path-sum/)
-* [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 * [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
-* [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-* [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 * [156. Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)
 * [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
 * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 * [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 * [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 * [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)
-* [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
+* [*270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
 * [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
 
-### Traversal (01/10/2016)
+### Traversal 
 
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
@@ -111,28 +118,24 @@ permalink: /leetcode/
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-* [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+* [*145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 * [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 * [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 * [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
-* [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
 * [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
 * [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 * [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 
-### Others (01/10/2016)
+### Others (done)
 
-* [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-* [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 * [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
-* [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 
 
 ## Dynamic Programming
 
-### Regular DP (01/12/2016)
+### Regular DP 
 
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
@@ -157,7 +160,7 @@ permalink: /leetcode/
 * [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 * [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 
-### Global/Local Optima (01/12/2016)
+### Global/Local Optima 
 
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -169,7 +172,7 @@ permalink: /leetcode/
 * [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 
-## LinkedList (01/13/2016)
+## LinkedList (done)
 
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -180,14 +183,14 @@ permalink: /leetcode/
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 * [86. Partition List](https://leetcode.com/problems/partition-list/)
 * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
-* [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+* [*138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-* [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
-* [143. Reorder List](https://leetcode.com/problems/reorder-list/)
+* [*142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+* [*143. Reorder List](https://leetcode.com/problems/reorder-list/)
 * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
-* [148. Sort List](https://leetcode.com/problems/sort-list/)
+* [*148. Sort List](https://leetcode.com/problems/sort-list/)
 * [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* [*206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
@@ -267,7 +270,7 @@ permalink: /leetcode/
 
 ## Recursion
 
-### Regular Recursion (01/09/2016)
+### Regular Recursion 
 
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
@@ -279,13 +282,13 @@ permalink: /leetcode/
 * [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/)
 
  
-### Recursion for Catalan Number (01/09/2016)
+### Recursion for Catalan Number 
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 * [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 
 
-### Recursion for NP problem (01/09/2016)
+### Recursion for NP problem 
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 * [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
@@ -332,6 +335,7 @@ permalink: /leetcode/
 * [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 * [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
 * [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)
+* [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 
 
 ## Data Structure
