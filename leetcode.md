@@ -68,6 +68,7 @@ permalink: /leetcode/
 * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 * [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/)
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+* [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 * [*81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 * [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 * [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
@@ -147,6 +148,7 @@ permalink: /leetcode/
 * [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)
 * [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 * [120. Triangle](https://leetcode.com/problems/triangle/)
+* [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
 * [139. Word Break](https://leetcode.com/problems/word-break/)
 * [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
 * [198. House Robber](https://leetcode.com/problems/house-robber/)
@@ -270,11 +272,9 @@ permalink: /leetcode/
 
 ## Recursion
 
-### Regular Recursion 
-
+### Regular Recursion (done)
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
-* [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 * [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
 * [254. Factor Combinations](https://leetcode.com/problems/factor-combinations/)
@@ -288,18 +288,18 @@ permalink: /leetcode/
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 
 
-### Recursion for NP problem 
+### Recursion for NP problem  (done)
 * [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 * [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 * [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 * [46. Permutations](https://leetcode.com/problems/permutations/)
-* [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
+* [*47. Permutations II](https://leetcode.com/problems/permutations-ii/)
 * [51. N-Queens](https://leetcode.com/problems/n-queens/)
 * [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 * [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 * [77. Combinations](https://leetcode.com/problems/combinations/)
 * [78. Subsets](https://leetcode.com/problems/subsets/)
-* [90. Subsets II](https://leetcode.com/problems/subsets-ii/)
+* [*90. Subsets II](https://leetcode.com/problems/subsets-ii/)
 * [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 * [267. Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)
 * [291. Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)
@@ -386,7 +386,6 @@ permalink: /leetcode/
 * [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 * [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 * [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-* [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 * [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 * [289. Game of Life](https://leetcode.com/problems/game-of-life/)
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
