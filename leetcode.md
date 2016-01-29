@@ -110,7 +110,7 @@ permalink: /leetcode/
 * [*270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
 * [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
 
-### Traversal 
+### Traversal (todo)
 
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
@@ -136,7 +136,7 @@ permalink: /leetcode/
 
 ## Dynamic Programming
 
-### Regular DP 
+### Regular DP (done)
 
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
@@ -162,7 +162,7 @@ permalink: /leetcode/
 * [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 * [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 
-### Global/Local Optima 
+### Global/Local Optima (done)
 
 * [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -196,7 +196,7 @@ permalink: /leetcode/
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
-## Bit-wise Operation
+## Bit-wise Operation (todo)
 
 * [136. Single Number](https://leetcode.com/problems/single-number/)
 * [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
@@ -205,7 +205,7 @@ permalink: /leetcode/
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 * [260. Single Number III](https://leetcode.com/problems/single-number-iii/)
 
-## String
+## String (todo)
 
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 * [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
@@ -247,7 +247,7 @@ permalink: /leetcode/
 * [320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)
 
 
-## Integer Manipulation
+## Integer Manipulation (todo)
 
 * [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 * [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
@@ -282,7 +282,7 @@ permalink: /leetcode/
 * [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/)
 
  
-### Recursion for Catalan Number 
+### Recursion for Catalan Number (todo)
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 * [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
 * [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
@@ -305,7 +305,7 @@ permalink: /leetcode/
 * [291. Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)
 
 
-## Math puzzle
+## Math puzzle (todo)
 
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 * [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
@@ -321,7 +321,7 @@ permalink: /leetcode/
 
 
 
-## Graph Search
+## Graph Search (todo)
 
 * [79. Word Search](https://leetcode.com/problems/word-search/)
 * [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
@@ -334,6 +334,7 @@ permalink: /leetcode/
 * [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
 * [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 * [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
+* [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 * [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)
 * [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 
@@ -349,11 +350,11 @@ permalink: /leetcode/
 * [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)
 
 
-### Queue
+### Queue (done)
 
 * [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 
-### Stack/Queue
+### Stack/Queue (done)
 
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 * [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
@@ -364,22 +365,21 @@ permalink: /leetcode/
 * [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 * [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 * [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-* [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 
 
-### Heap
+### Heap (done)
 
 * [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 * [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 
-### List
+### List (done)
 
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 * [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
 * [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
 
-## Matrix
+## Matrix (done)
 
 * [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 * [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
@@ -387,15 +387,16 @@ permalink: /leetcode/
 * [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 * [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 * [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
-* [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+* [*289. Game of Life](https://leetcode.com/problems/game-of-life/)
 * [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 
 
-### Union & Find
+### Union & Find (todo)
 
 * [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+* 判断一个图是否有环 无向图 有向图
 
-## Others
+## Others (todo)
 
 * [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 * [87. Scramble String](https://leetcode.com/problems/scramble-string/)
