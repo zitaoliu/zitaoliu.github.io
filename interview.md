@@ -24,6 +24,6 @@ permalink: /interview/
 
 * [Jane Street]({% post_url 2016-02-03-interivew-jane-street %}) (pending)
 * [Tower Research Capital]({% post_url 2016-02-03-interivew-tower-research %}) (pending)
-* [Cubist Systematic Strategies]({% post_url 2016-02-03-interivew-cubist %}) (pending)
+* [Cubist Systematic Strategies]({% post_url 2016-01-10-interivew-cubist %}) (pending)
 
 
