@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Amazon Research Interview - Research Scientist Position
+title:      Amazon Research Interview
 date:       2016-01-13 14:00:00
-summary:    Amazon Research Interview.
+summary:    Amazon Research Interview - Research Scientist Position.
 categories: interview 
 ---
 

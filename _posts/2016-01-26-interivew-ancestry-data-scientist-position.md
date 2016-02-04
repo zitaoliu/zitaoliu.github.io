@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Ancestry Interview  - Data Scientist Position
+title:      Ancestry Interview
 date:       2016-01-26 14:00:00
-summary:    Ancestry Interview.
+summary:    Ancestry Interview - Data Scientist Position.
 categories: interview 
 ---
 

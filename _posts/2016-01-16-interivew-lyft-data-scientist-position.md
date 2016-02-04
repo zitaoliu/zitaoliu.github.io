@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Lyft Interview  - Data Scientist Position
+title:      Lyft Interview
 date:       2016-01-16 14:00:00
-summary:    Lyft Interview.
+summary:    Lyft Interview - Data Scientist Position.
 categories: interview 
 ---
 

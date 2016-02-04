@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Vatic Labs Interview - Quantitative Research Position
+title:      Vatic Labs Interview
 date:       2016-01-22 11:00:00
-summary:    Vatic Labs Interview.
+summary:    Vatic Labs Interview - Quantitative Research Position.
 categories: interview 
 ---
 

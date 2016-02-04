@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Microsoft Interview - Data Scientist Position
+title:      Microsoft Interview
 date:       2016-01-27 16:00:00
-summary:    Microsoft Interview.
+summary:    Microsoft Interview - Data Scientist Position.
 categories: interview 
 ---
 

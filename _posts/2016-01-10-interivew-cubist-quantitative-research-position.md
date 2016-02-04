@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Cubist Systematic Strategies Interview - Quantitative Research Position 
+title:      Cubist Systematic Strategies Interview
 date:       2016-01-10 11:00:00
-summary:    Cubist Systematic Strategies Interview.
+summary:    Cubist Systematic Strategies Interview - Quantitative Research Position.
 categories: interview 
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Jane Street Interview - Quantitative Research Position
+title:      Jane Street Interview
 date:       2016-02-03 11:00:00
-summary:    Jane Street Interview.
+summary:    Jane Street Interview - Quantitative Research Position.
 categories: interview 
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Tower Research Interview - Quantitative Research Position
+title:      Tower Research Interview
 date:       2016-02-03 14:00:00
-summary:    Tower Research Interview.
+summary:    Tower Research Interview - Quantitative Research Position.
 categories: interview 
 ---
 
