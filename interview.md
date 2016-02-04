@@ -8,7 +8,7 @@ permalink: /interview/
 ### Researcher
 
 * [NEC Lab]({% post_url 2016-01-25-interivew-nec-lab-researcher-position %}) (pending)
-* [Adobe Research]({% post_url 2016-01-29-interivew-adobe-research-research-position %}) (pending)
+* [Adobe Research]({% post_url 2016-01-29-interivew-adobe-research-researcher-position %}) (pending)
 
 
 ### Research Scientist/Data Scientist/Software Engineer
