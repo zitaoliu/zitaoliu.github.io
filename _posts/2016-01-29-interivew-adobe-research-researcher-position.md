@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Adobe Research Interview 
+title:      Adobe Research Interview  - Researcher Position
 date:       2016-01-29 18:00:00
 summary:    Adobe Research Interview.
 categories: interview 

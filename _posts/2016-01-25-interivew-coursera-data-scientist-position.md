@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Coursera Interview 
+title:      Coursera Interview  - Data Scientist Position
 date:       2016-01-25 19:00:00
 summary:    Coursera Interview.
 categories: interview 

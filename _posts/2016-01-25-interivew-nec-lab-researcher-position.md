@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      NEC Lab Interview 
+title:      NEC Lab Interview - Researcher Position
 date:       2016-01-25 14:00:00
 summary:    NEC Lab Interview.
 categories: interview 
