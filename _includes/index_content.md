@@ -1,4 +1,4 @@
-##Jerry Zitao Liu 刘子韬
+## Jerry Zitao Liu 刘子韬
 
 I am a Ph.D. Candidate in [Department of Computer Science](http://www.cs.pitt.edu/) at [University of Pittsburgh](http://www.pitt.edu/). I thrill to develop machine learning and data mining algorithmic solutions with theoretical guarantees to real-world problems from noisy, large-scale, heterogeneous and sparse data. 
 
