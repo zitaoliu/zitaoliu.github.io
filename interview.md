@@ -22,7 +22,7 @@ permalink: /interview/
 
 ### Quant
 
-* [Cubist Systematic Strategies]({% post_url 2016-01-10-interivew-cubist-quantitative-research-position %}) (pending)
+* [Cubist Systematic Strategies]({% post_url 2016-01-10-interivew-cubist-quantitative-research-position %}) (fail)
 * [Vatic Labs]({% post_url 2016-01-22-interivew-vatic-labs-quantitative-research-position %}) (online coding)
 * [Jane Street]({% post_url 2016-02-03-interivew-jane-street-quantitative-research-position %}) (pending)
 * [Tower Research Capital]({% post_url 2016-02-03-interivew-tower-research-quantitative-research-position %}) (fail)
