@@ -5,6 +5,42 @@ permalink: /leetcode/
 
 ## Leetcode Problems Summary by Topics (Updated till #320)
 
+
+## Two-Pointer Scan (from two ends to middle)
+
+* [1. Two Sum](https://leetcode.com/problems/two-sum/)
+* [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+* [15. 3Sum](https://leetcode.com/problems/3sum/)
+* [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+* [18. 4Sum](https://leetcode.com/problems/4sum/)
+* [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+* [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+* [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+* [135. Candy](https://leetcode.com/problems/candy/)
+* [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+* [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
+* [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+* [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
+
+
+## Binary Search
+
+* [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+* [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/)
+* [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+* [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+* [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+* [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+* [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+* [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+* [275. H-Index II](https://leetcode.com/problems/h-index-ii/)
+* [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+* [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+* [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)
+
+---------------------------------
+
+
 ## Array
 
 ### Regular Array Operation (check)
@@ -36,21 +72,7 @@ permalink: /leetcode/
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 
 
-### Two-Pointer Scan (from two ends to middle) (check)
 
-* [1. Two Sum](https://leetcode.com/problems/two-sum/)
-* [*11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-* [15. 3Sum](https://leetcode.com/problems/3sum/)
-* [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
-* [18. 4Sum](https://leetcode.com/problems/4sum/)
-* [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
-* [*76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-* [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-* [135. Candy](https://leetcode.com/problems/candy/)
-* [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-* [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
-* [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-* [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 
 ### Two-Point Scan (both from beginnings) (check)
 
@@ -63,20 +85,7 @@ permalink: /leetcode/
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 
-## Binary Search (done)
 
-* [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-* [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/)
-* [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-* [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-* [*81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-* [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-* [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-* [*162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-* [275. H-Index II](https://leetcode.com/problems/h-index-ii/)
-* [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
-* [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-* [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)
 
 ## Tree
 
@@ -191,6 +200,7 @@ permalink: /leetcode/
 * [*143. Reorder List](https://leetcode.com/problems/reorder-list/)
 * [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 * [*148. Sort List](https://leetcode.com/problems/sort-list/)
+* [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 * [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 * [*206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
@@ -256,7 +266,6 @@ permalink: /leetcode/
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 * [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
 * [89. Gray Code](https://leetcode.com/problems/gray-code/)
-* [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 * [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 * [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 * [202. Happy Number](https://leetcode.com/problems/happy-number/)
@@ -331,7 +340,6 @@ permalink: /leetcode/
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 * [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
 * [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
-* [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
 * [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 * [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
 * [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
@@ -347,7 +355,9 @@ permalink: /leetcode/
 * [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 * [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+* [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
 * [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)
+
 
 
 ### Queue (done)
