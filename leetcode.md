@@ -38,14 +38,10 @@ permalink: /leetcode/
 * [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 * [302. Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)
 
----------------------------------
 
+## Regular Array Operation
 
-## Array
-
-### Regular Array Operation (check)
-
-* [*41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+* [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/)
 * [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
@@ -56,22 +52,23 @@ permalink: /leetcode/
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 * [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
-* [*220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+* [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
 * [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)
-* [*229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+* [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 * [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-* [*243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)
-* [*244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)
+* [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)
+* [244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)
 * [245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)
 * [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)
 * [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 * [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 * [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
-* [*274. H-Index](https://leetcode.com/problems/h-index/)
-* [*280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)
+* [274. H-Index](https://leetcode.com/problems/h-index/)
+* [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 
 
+---------------------------------
 
 
 ### Two-Point Scan (both from beginnings) (check)
