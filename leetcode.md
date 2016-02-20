@@ -68,6 +68,39 @@ permalink: /leetcode/
 * [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 
 
+## Tree Path
+* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+* [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+* [112. Path Sum](https://leetcode.com/problems/path-sum/)
+* [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+* [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+* [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+* [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
+
+
+## LinkedList
+
+* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+* [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+* [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+* [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+* [61. Rotate List](https://leetcode.com/problems/rotate-list/)
+* [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+* [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+* [86. Partition List](https://leetcode.com/problems/partition-list/)
+* [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+* [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+* [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+* [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+* [143. Reorder List](https://leetcode.com/problems/reorder-list/)
+* [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+* [148. Sort List](https://leetcode.com/problems/sort-list/)
+* [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+* [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+* [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
 ---------------------------------
 
 
@@ -87,15 +120,6 @@ permalink: /leetcode/
 ## Tree
 
 ### Recursion 
-
-#### Tree Path (done)
-* [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-* [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-* [*112. Path Sum](https://leetcode.com/problems/path-sum/)
-* [*113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
-* [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
-* [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-* [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 
 #### Other (done)
 
@@ -180,28 +204,7 @@ permalink: /leetcode/
 * [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 * [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 
-## LinkedList (done)
 
-* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-* [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-* [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
-* [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-* [61. Rotate List](https://leetcode.com/problems/rotate-list/)
-* [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
-* [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-* [86. Partition List](https://leetcode.com/problems/partition-list/)
-* [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
-* [*138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-* [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-* [*142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
-* [*143. Reorder List](https://leetcode.com/problems/reorder-list/)
-* [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
-* [*148. Sort List](https://leetcode.com/problems/sort-list/)
-* [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-* [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-* [*206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-* [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-* [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
 ## Bit-wise Operation (todo)
 
