@@ -40,5 +40,7 @@ All are based on the class ([CS 2510](http://people.cs.pitt.edu/~kirk/cs2150/)) 
 * [问题复杂度分析(Problem Complexity and Adversarial Lower Bound)]({% post_url 2011-04-20-introduction-to-algorithm-problem-complexity-and-adversarial-lower-bound %})
 
 
+### Excellent Resources
 
+* [How to write a good CVPR submission]({{ site.baseurl }}/download/how_to_write_a_good_cvpr_submission_bill_freeman.pdf) by [Bill Freeman](https://billf.mit.edu/)
 
