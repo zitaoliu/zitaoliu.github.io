@@ -101,7 +101,63 @@ permalink: /leetcode/
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 * [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
+
+## Queue
+
+* [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+
+
+## Heap
+
+* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+* [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+
+
+## List
+
+* [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+* [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
+* [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+
+## Graph Search
+
+* [79. Word Search](https://leetcode.com/problems/word-search/)
+* [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+* [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+* [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+* [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+* [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+* [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+* [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+* [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
+* [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+* [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)
+* [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+
+
+
 ---------------------------------
+
+### Traversal (todo)
+
+* [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+* [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+* [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+* [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+* [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+* [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+* [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+* [*145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+* [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+* [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+* [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
+* [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
+* [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+* [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
+
+
 
 
 ### Two-Point Scan (both from beginnings) (check)
@@ -113,7 +169,6 @@ permalink: /leetcode/
 * [*159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 * [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-
 
 
 
@@ -140,22 +195,6 @@ permalink: /leetcode/
 * [*270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
 * [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
 
-### Traversal (todo)
-
-* [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-* [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-* [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-* [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-* [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
-* [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
-* [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-* [*145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-* [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
-* [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-* [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
-* [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
-* [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-* [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 
 ### Others (done)
 
@@ -330,22 +369,6 @@ permalink: /leetcode/
 
 
 
-## Graph Search (todo)
-
-* [79. Word Search](https://leetcode.com/problems/word-search/)
-* [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
-* [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
-* [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
-* [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
-* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
-* [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
-* [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
-* [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
-* [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
-* [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
-* [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)
-* [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
-
 
 ## Data Structure
 
@@ -360,9 +383,6 @@ permalink: /leetcode/
 
 
 
-### Queue (done)
-
-* [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 
 ### Stack/Queue (done)
 
@@ -377,17 +397,6 @@ permalink: /leetcode/
 * [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 
-### Heap (done)
-
-* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-* [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
-
-
-### List (done)
-
-* [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-* [57. Insert Interval](https://leetcode.com/problems/insert-interval/)
-* [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 ## Matrix (done)
 
