@@ -137,6 +137,34 @@ permalink: /leetcode/
 * [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 
 
+## Tier
+
+* [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+* [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+* [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
+* [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)
+
+
+## Tree Recursion
+
+* [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+* [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+* [100. Same Tree](https://leetcode.com/problems/same-tree/)
+* [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+* [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+* [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+* [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+* [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+* [156. Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)
+* [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+* [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+* [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+* [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)
+* [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
+* [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
+
+
 
 ---------------------------------
 
@@ -176,25 +204,6 @@ permalink: /leetcode/
 
 ### Recursion 
 
-#### Other (done)
-
-* [*98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-* [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
-* [100. Same Tree](https://leetcode.com/problems/same-tree/)
-* [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-* [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-* [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
-* [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-* [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
-* [156. Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)
-* [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
-* [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-* [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-* [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-* [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)
-* [*270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
-* [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
-
 
 ### Others (done)
 
@@ -208,6 +217,8 @@ permalink: /leetcode/
 ### Regular DP (done)
 
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+* [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+* [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 * [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 * [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
@@ -371,15 +382,6 @@ permalink: /leetcode/
 
 
 ## Data Structure
-
-### Tier
-
-* [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
-* [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
-* [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
-* [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
-* [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
-* [272. Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)
 
 
 
