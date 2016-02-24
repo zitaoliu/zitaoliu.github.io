@@ -165,10 +165,7 @@ permalink: /leetcode/
 * [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
 
 
-
----------------------------------
-
-### Traversal (todo)
+## Tree Traversal
 
 * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
@@ -177,7 +174,7 @@ permalink: /leetcode/
 * [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 * [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-* [*145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+* [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 * [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 * [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 * [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
@@ -186,17 +183,20 @@ permalink: /leetcode/
 * [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 
 
-
-
-### Two-Point Scan (both from beginnings) (check)
+## Two-Point Scan (both from beginnings)
 
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [27. Remove Element](https://leetcode.com/problems/remove-element/)
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
-* [*159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
+* [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 * [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+
+---------------------------------
+
+
 
 
 
@@ -378,9 +378,6 @@ permalink: /leetcode/
 
 
 
-
-
-
 ## Data Structure
 
 
@@ -430,8 +427,6 @@ permalink: /leetcode/
 * [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
 * [281. Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)
 * [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
-* [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
-* [308. Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)
 * [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 * [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 * [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
