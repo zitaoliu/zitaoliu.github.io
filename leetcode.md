@@ -89,6 +89,8 @@ permalink: /leetcode/
 * [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 * [86. Partition List](https://leetcode.com/problems/partition-list/)
 * [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+* [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+* [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 * [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 * [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
@@ -194,27 +196,53 @@ permalink: /leetcode/
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 
----------------------------------
+
+## Stack/Queue
+
+* [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+* [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+* [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+* [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+* [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+* [155. Min Stack](https://leetcode.com/problems/min-stack/)
+* [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+* [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+* [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 
 
+## Matrix
+
+* [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+* [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+* [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+* [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+* [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+* [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+* [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+* [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 
 
-## Tree
+## Others
 
-### Recursion 
+* [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+* [87. Scramble String](https://leetcode.com/problems/scramble-string/)
+* [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+* [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/)
+* [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+* [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+* [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+* [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
+* [281. Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)
+* [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
+* [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+* [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
+* [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 
 
-### Others (done)
 
-* [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
-* [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
-* [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
-
-
-## Dynamic Programming
-
-### Regular DP (done)
+## Regular DP
 
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 * [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
@@ -241,6 +269,32 @@ permalink: /leetcode/
 * [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 * [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 * [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+
+
+## Tree
+
+* [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+
+
+## Math puzzle
+
+* [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+* [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+* [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+* [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+* [268. Missing Number](https://leetcode.com/problems/missing-number/)
+* [292. Nim Game](https://leetcode.com/problems/nim-game/)
+* [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
+* [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)
+* [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)
+
+
+
+---------------------------------
+
+
+
+
 
 ### Global/Local Optima (done)
 
@@ -282,7 +336,6 @@ permalink: /leetcode/
 * [68. Text Justification](https://leetcode.com/problems/text-justification/)
 * [65. Valid Number](https://leetcode.com/problems/valid-number/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/)
-* [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 * [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 * [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)
 * [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)
@@ -333,6 +386,7 @@ permalink: /leetcode/
 
 ### Regular Recursion (done)
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+* [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 * [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 * [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 * [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
@@ -364,69 +418,11 @@ permalink: /leetcode/
 * [291. Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)
 
 
-## Math puzzle (todo)
-
-* [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
-* [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
-* [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
-* [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
-* [268. Missing Number](https://leetcode.com/problems/missing-number/)
-* [292. Nim Game](https://leetcode.com/problems/nim-game/)
-* [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
-* [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)
-* [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)
-
-
-
-## Data Structure
 
 
 
 
-### Stack/Queue (done)
-
-* [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-* [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
-* [71. Simplify Path](https://leetcode.com/problems/simplify-path/)
-* [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
-* [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-* [155. Min Stack](https://leetcode.com/problems/min-stack/)
-* [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
-* [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
-* [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-
-
-
-## Matrix (done)
-
-* [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-* [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
-* [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-* [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-* [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-* [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
-* [*289. Game of Life](https://leetcode.com/problems/game-of-life/)
-* [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
-
-
-### Union & Find (todo)
+## Union & Find
 
 * [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
-* 判断一个图是否有环 无向图 有向图
 
-## Others (todo)
-
-* [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
-* [87. Scramble String](https://leetcode.com/problems/scramble-string/)
-* [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
-* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
-* [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/)
-* [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)
-* [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
-* [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
-* [277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)
-* [281. Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)
-* [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
-* [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-* [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
-* [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
