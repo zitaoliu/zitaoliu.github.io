@@ -36,6 +36,8 @@ permalink: /publications/
 ### Web/Text Mining & Social Media
 * [W1] **Zitao Liu**, [Gyanit Singh](https://www.linkedin.com/in/gyanitsingh), [Nish Parikh](https://labs.ebay.com/people/nish-parikh/) and [Neel Sundaresan](https://www.linkedin.com/pub/neel-sundaresan/0/4a2/a96). A Large Scale Query Logs Analysis for Assessing Personalization Opportunities in E-commerce Sites. [ACM International Conference on Web Search and Data Mining Workshop on Log-Based Personalization(WSDM-Workshop)](http://research.microsoft.com/en-us/um/people/nickcr/wscd2014/), 2014. 
 
+* [C5] Wencan Luo, Fei Liu, **Zitao Liu** and Diane Litman. Automatic Summarization of Student Course Feedback. [North American Chapter of the Association for Computational Linguistics: Human Language Technologies(NAACL-HLT)](http://naacl.org/naacl-hlt-2016/), 2016. <a href="{{ site.baseurl }}/download/" class="button button-blue button-small">PDF</a>
+
 * [C4] **Zitao Liu**, Wenchao Yu, Wei Chen, Shuran Wang and Fengyi Wu. Short Text Feature Selection and Classification for Micro Blog Mining. [International Conference on Computational Intelligence and Software Engineering(CiSE)](http://www.ciseng.org/2010/), 2010. <a href="{{ site.baseurl }}/download/cise2010.pdf" class="button button-blue button-small">PDF</a>
 
 * [C3] **Zitao Liu**, Wenchao Yu, Yalan Deng, Yongtao Wang and Zhiqi Bian. A Feature Selection Method for Document Clustering Based on Part-of-Speech and Word Co-Occurrence. [International Conference on Fuzzy Systems and Knowledge Discovery(FSKD)](http://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=16486), 2010. <a href="{{ site.baseurl }}/download/fskd2010.pdf" class="button button-blue button-small">PDF</a>
