@@ -5,14 +5,14 @@ permalink: /publications/
 
 
 
-## Publications
+### Publications
 
-### Clinical Time Series Analysis
-* [J1] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Clinical Time Series Prediction: Towards A Hierarchical Dynamical System Framework. [Artificial Intelligence in Medicine(AIIM)](http://www.journals.elsevier.com/artificial-intelligence-in-medicine/), 2014. <a href="{{ site.baseurl }}/download/aiim2014.pdf" class="button button-blue button-small">PDF</a>
+#### Clinical Time Series Analysis
+* [J1] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Clinical Time Series Prediction: Towards A Hierarchical Dynamical System Framework. [Artificial Intelligence in Medicine(AIIM)](http://www.journals.elsevier.com/artificial-intelligence-in-medicine/), 2015. <a href="{{ site.baseurl }}/download/aiim2015.pdf" class="button button-blue button-small">PDF</a>
 
-* [C5] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Learning Linear Dynamical Systems from Multivariate Time Series: A Matrix Factorization Based Framework. [SIAM International Conference on Data Mining(SDM)](http://www.siam.org/meetings/sdm16/), 2016. <a href="{{ site.baseurl }}/download/sdm2016.pdf" class="button button-blue button-small">PDF</a> <a href="{{ site.baseurl }}/download/sdm2016_sup.pdf" class="button button-blue button-small">Supplemental Material</a> 
+* [C5] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Learning Linear Dynamical Systems from Multivariate Time Series: A Matrix Factorization Based Framework. [SIAM International Conference on Data Mining(SDM)](http://www.siam.org/meetings/sdm16/), 2016. <a href="{{ site.baseurl }}/download/sdm2016.pdf" class="button button-blue button-small">PDF</a> <a href="{{ site.baseurl }}/download/sdm2016_sup.pdf" class="button button-blue button-small">Supplemental Material</a> <a href="{{ site.baseurl }}/download/sdm2016_slides.pdf" class="button button-blue button-small">Slides</a> <a href="{{ site.baseurl }}/download/sdm2016_poster.pdf" class="button button-blue button-small">Poster</a> 
 
-* [C4] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Learning Adaptive Forecasting Models from Irregularly Sampled Multivariate Clinical Data. [The 30th AAAI Conference on Artificial Intelligence(AAAI)](http://www.aaai.org/Conferences/AAAI/aaai16.php), 2016. <a href="{{ site.baseurl }}/download/aaai2016.pdf" class="button button-blue button-small">PDF</a> <a href="{{ site.baseurl }}/download/aaai2016_sup.pdf" class="button button-blue button-small">Supplemental Material</a> 
+* [C4] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Learning Adaptive Forecasting Models from Irregularly Sampled Multivariate Clinical Data. [The 30th AAAI Conference on Artificial Intelligence(AAAI)](http://www.aaai.org/Conferences/AAAI/aaai16.php), 2016. <a href="{{ site.baseurl }}/download/aaai2016_sup.pdf" class="button button-blue button-small">Revised Version with Additional Results</a> <a href="{{ site.baseurl }}/download/aaai2016_sup.pdf" class="button button-blue button-small">Supplemental Material</a> 
 
 
 * [C3] **Zitao Liu** and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). A Regularized Linear Dynamical System Framework for Multivariate Time Series Analysis. [The 29th AAAI Conference on Artificial Intelligence(AAAI)](http://www.aaai.org/Conferences/AAAI/aaai15.php), 2015. <a href="{{ site.baseurl }}/download/aaai2015.pdf" class="button button-blue button-small">PDF</a> <a href="{{ site.baseurl }}/download/aaai2015_sup.pdf" class="button button-blue button-small">Supplemental Material</a> <a href="{{ site.baseurl }}/download/aaai2015_slides.pdf" class="button button-blue button-small">Slides</a> <a href="{{ site.baseurl }}/download/aaai2015_poster.pdf" class="button button-blue button-small">Poster</a> 
@@ -25,15 +25,15 @@ permalink: /publications/
 
 * [W1] **Zitao Liu**, [Lei Wu](https://sites.google.com/site/wuleibig2/) and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). State Space Gaussian Process Prediction. [29th International Conference on Machine Learning Workshop on Clinical Data Analysis(ICML-Workshop)](https://sites.google.com/site/mlclinicaldata/), 2012.
 
-### Hierarchical Time Series Analysis
+#### Hierarchical Time Series Analysis
 * [C1] **Zitao Liu**, [Yan Yan](https://www.linkedin.com/pub/yan-yan/10/7b3/884), [Jian Yang](https://labs.yahoo.com/researchers/jianyang) and and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). Missing Value Estimation for Hierarchical Time Series: A Study of Hierarchical Web Traffic. [The IEEE International Conference on Data Mining(ICDM)](http://icdm2015.stonybrook.edu/), 2015. <a href="{{ site.baseurl }}/download/icdm2015.pdf" class="button button-blue button-small">PDF</a> <a href="{{ site.baseurl }}/download/icdm2015_slides.pdf" class="button button-blue button-small">Slides</a>
 
 * [W1] **Zitao Liu** and [Yan Yan](https://www.linkedin.com/pub/yan-yan/10/7b3/884). A Probabilistic Framework for Hierarchical Time Series Forecasting. [The 32nd International Conference on Machine Learning Workshop on Demand Forecasting (ICML-Workshop)](https://sites.google.com/site/icmldemand/), 2015.
 
-### Multi-label Classification
+#### Multi-label Classification
 * [C1] [Mahdi Pakdaman](http://people.cs.pitt.edu/~pakdaman/), [Iyad Batal](https://www.sites.google.com/site/iyadbatal/), **Zitao Liu**, [CharmGil Hong](http://people.cs.pitt.edu/~charmgil/Hong/Home.html) and [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). An Optimization-based Framework to Learn Conditional Random Fields for Multi-label Classification. [SIAM International Conference on Data Mining(SDM)](http://www.siam.org/meetings/sdm14/), 2014. <a href="{{ site.baseurl }}/download/sdm2014.pdf" class="button button-blue button-small">PDF</a>
 
-### Web/Text Mining & Social Media
+#### Web/Text Mining & Social Media
 * [W1] **Zitao Liu**, [Gyanit Singh](https://www.linkedin.com/in/gyanitsingh), [Nish Parikh](https://labs.ebay.com/people/nish-parikh/) and [Neel Sundaresan](https://www.linkedin.com/pub/neel-sundaresan/0/4a2/a96). A Large Scale Query Logs Analysis for Assessing Personalization Opportunities in E-commerce Sites. [ACM International Conference on Web Search and Data Mining Workshop on Log-Based Personalization(WSDM-Workshop)](http://research.microsoft.com/en-us/um/people/nickcr/wscd2014/), 2014. 
 
 * [C5] Wencan Luo, Fei Liu, **Zitao Liu** and Diane Litman. Automatic Summarization of Student Course Feedback. [North American Chapter of the Association for Computational Linguistics: Human Language Technologies(NAACL-HLT)](http://naacl.org/naacl-hlt-2016/), 2016. <a href="{{ site.baseurl }}/download/" class="button button-blue button-small">PDF</a>
@@ -46,7 +46,7 @@ permalink: /publications/
 
 * [C1] [Yang Shen](http://www.tsjc.tsinghua.edu.cn/publish/jc/250/2014/20140616145239930572386/20140616145239930572386_.html), **Zitao Liu**, Shaoji Luo, Huijuan Fu and Ye Li. Empirical Research on E-Government Based on Content Mining. International Conference on Management of E-Commerce and E-Government(ICMeCG), 2009. <a href="{{ site.baseurl }}/download/icmecg2009.pdf" class="button button-blue button-small">PDF</a>
 
-### Others
+#### Others
 
 * [W1] **Zitao Liu** and [Sangyeun Cho](https://people.cs.pitt.edu/~cho/). Characterizing Machines and Workloads on a Google Cluster, [The Eighth International Workshop on Scheduling and Resource Management for Parallel and Distributed Systems(SRMPDS)](http://www.mcs.anl.gov/~kettimut/srmpds12/), 2012. <a href="{{ site.baseurl }}/download/srmpds2012.pdf" class="button button-blue button-small">PDF</a>
 
