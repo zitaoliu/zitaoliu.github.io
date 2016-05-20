@@ -61,7 +61,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 relative_permalinks: false
-paginate:     8
+paginate:    12 
 paginate_path: "/blog/page:num/"
 sass:
   compressed: true
