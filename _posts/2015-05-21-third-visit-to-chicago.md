@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      三游芝加哥
-date:       2015-05-21 0:0:0
+date:       2015-05-21 01:02:03
 summary:    第三次游览芝加哥，三次，和最重要的三个人。
 categories: life
 ---
