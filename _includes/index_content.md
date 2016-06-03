@@ -1,6 +1,6 @@
 ## Jerry Zitao Liu 刘子韬
 
-I am a Ph.D. Candidate working with Professor [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/) in Department of Computer Science at University of Pittsburgh. My research work focuses on clinical data modeling, especially in time series domain. The majority of my research is funded by the NIH research grant. I was awarded the Andrew Mellon Predoctoral Fellowship for the school year 2015-2016. Thank you very much for the support from NIH and Mellon Fellowship.
+I am a Ph.D. Candidate working with Professor [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/) in Department of Computer Science at University of Pittsburgh. My research work focuses on clinical data modeling, especially in time series domain. My research work was funded mostly by National Institutes of Health (NIH). I was awarded the Andrew Mellon Predoctoral Fellowship for the school year 2015-2016.
 
 <!--I thrill to develop machine learning and data mining algorithmic solutions with theoretical guarantees to real-world problems from noisy, large-scale, heterogeneous and sparse data. -->
 
