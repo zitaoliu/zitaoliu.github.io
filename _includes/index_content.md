@@ -1,6 +1,8 @@
 ## Jerry Zitao Liu 刘子韬
 
-I am a Ph.D. Candidate in [Department of Computer Science](http://www.cs.pitt.edu/) at [University of Pittsburgh](http://www.pitt.edu/). I thrill to develop machine learning and data mining algorithmic solutions with theoretical guarantees to real-world problems from noisy, large-scale, heterogeneous and sparse data. 
+I am a Ph.D. Candidate working with Professor [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/) in Department of Computer Science at University of Pittsburgh. My research work focuses on clinical data modeling, especially in time series domain. The majority of my research is funded by the NIH research grant. I was awarded the Andrew Mellon Predoctoral Fellowship for the school year 2015-2016. Thank you very much for the support from NIH and Mellon Fellowship.
+
+<!--I thrill to develop machine learning and data mining algorithmic solutions with theoretical guarantees to real-world problems from noisy, large-scale, heterogeneous and sparse data. -->
 
 I received my Bachelor from [Wuhan University](http://en.whu.edu.cn/) in China. During my past 5 years of Ph.D. life, I worked as a research intern at [Alibaba Group](http://data.alibaba.com/)(2015), [Yahoo! Labs](http://labs.yahoo.com/)(2014), [eBay Research Lab](http://labs.ebay.com/)(2013), and was a software engineer intern at [Google](http://www.google.com/)(2012).
 

@@ -63,6 +63,7 @@ Wuhan University, Wuhan, Hubei China
 
 * ACM Transactions on Intelligent Systems and Technology (TIST)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Big Data (TBD)
 * Neurocomputing (NEUCOM)
 * Applied Clinical Informatics (ACI)
 * Artificial Intelligence in Medicine (AIIM)
