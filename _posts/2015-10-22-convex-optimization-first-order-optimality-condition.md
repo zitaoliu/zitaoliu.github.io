@@ -28,7 +28,7 @@ $$C = \{ x: g_i(x) \leq 0, i = 1, \cdots, m, Ax = b \} $$
 
 ### First-order condition for optimality.
 
-> For a convex problem above, if $$f$$ if differentiable, a feasible point $$x$$ is optimal if and only if $$ \triangledown f(x)^\top (y - x) \geq 0 $$ for all $$y \in C$$.
+> For a convex problem above, if $$f$$ is differentiable, a feasible point $$x$$ is optimal if and only if $$ \triangledown f(x)^\top (y - x) \geq 0 $$ for all $$y \in C$$.
 
 ### Take Home Message
 
