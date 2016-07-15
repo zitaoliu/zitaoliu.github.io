@@ -1,12 +1,12 @@
 ---
 layout:     post
 title:      First-Order Optimality Condition
-date:       2015-10-22 15:03:29
-summary:    What is "First-Order Optimality Condition"
+date:       2016-06-20 15:03:29
+summary:    What is "First-Order Optimality Condition" ?
 categories: cs ml optimization
 ---
 
-I will continue the notation I used in [previous post]({% post_url 2015-10-21-convex-optimization-local-minima-are-global-minima %}).
+I will continue the notation I used in [previous post]({% post_url 2016-06-19-convex-optimization-local-minima-are-global-minima %}).
 
 The convex optimization problems are defined as follows: 
 

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Proof of "For convex optimization problems, local minima are global minima."
-date:       2015-10-21 16:03:29
+title:      Local minima are global minima in convex optimization.
+date:       2016-06-19 16:03:29
 summary:    I would like to show how to prove "For convex optimization problems, local minima are global minima."
 categories: cs ml optimization
 ---

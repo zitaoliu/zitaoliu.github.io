@@ -14,11 +14,11 @@ permalink: /notes/
 
 All are based on the class ([10-725 Optimization](http://www.cs.cmu.edu/~ggordon/10725-F12/)) I took in Fall 2012 taught by [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/) in [CMU](http://www.cmu.edu).
 
-* [Convex Function]({% post_url 2015-10-20-convex-function %})
-* [Local Minima Are Global Minima in Convex Optimization Problems]({% post_url 2015-10-21-convex-optimization-local-minima-are-global-minima %})
-* [First-Order Optimality Condition]({% post_url 2015-10-22-convex-optimization-first-order-optimality-condition %})
-* [Lipschitz Gradients and Their Three Equivalent Conditions]({% post_url 2015-10-23-convex-optimization-lipschitz-gradients-three-equivalent-conditions %})
-* [Strong Convexity and Their Four Equivalent Conditions]({% post_url 2015-10-24-convex-optimization-strong-convexity-four-equivalent-conditions %})
+* [Convex Function And Its Three Equivalent Statements]({% post_url 2016-06-18-convex-optimization-convex-function-three-equivalent-statements %})
+* [Local Minima Are Global Minima in Convex Optimization Problems]({% post_url 2016-06-19-convex-optimization-local-minima-are-global-minima %})
+* [First-Order Optimality Condition]({% post_url 2016-06-20-convex-optimization-first-order-optimality-condition %})
+* [Lipschitz Gradients and Their Three Equivalent Conditions]({% post_url 2016-06-21-convex-optimization-lipschitz-gradients-three-equivalent-conditions %})
+* [Strong Convexity and Their Four Equivalent Conditions]({% post_url 2016-06-22-convex-optimization-strong-convexity-four-equivalent-conditions %})
 
 
 
