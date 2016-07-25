@@ -72,7 +72,8 @@ Wuhan University, Wuhan, Hubei China
 
 #### PC Member
 
-* International Workshop on Mining Wearable Data for Healthcare (MWDHealth 2016)
+* International Workshop on Big Network Analytics (BNA 2016) (in conjunction with CIKM 2016) 
+* International Workshop on Mining Wearable Data for Healthcare (MWDHealth 2016) (in conjunction with ICHI 2016) 
 * ACM International Conference on Information and Knowledge Management(CIKM 2016)
 * International Conference on Signal Processing and Multimedia Applications(SIGMAP 2016)
 * International Conference on Machine Learning and Data Mining(MLDM 2015)
