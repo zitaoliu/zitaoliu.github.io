@@ -50,31 +50,25 @@
 
 .index-avatar-me {
   margin: 0.5rem 0;
-  padding: 0px 10px 0px 0px;
-  width: 100px;
+  padding: 0px 5px 0px 0px;
+  height: 50px;
   border-radius: 50%;
 }
 
 .index-avatar {
   margin: 0.5rem 0;
-  padding: 0px 10px 0px 0px;
-  width: 100px;
+  padding: 0px 5px 0px 0px;
+  height: 65px;
   border-radius: 45%;
 }
 
 .index-avatar-long {
   margin: 0.5rem 0;
   padding: 0px 10px 0px 0px;
-  height: 60px;
-  border-radius: 20%;
+  height: 50px;
+  border-radius: 0%;
 }
 
-.index-avatar-long-ebay {
-  margin: 0.5rem 0;
-  padding: 0px 10px 0px 0px;
-  height: 70px;
-  border-radius: 20%;
-}
 
 .index-footer {
   @extend .italic;

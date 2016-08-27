@@ -35,6 +35,7 @@ google_plus_id:
 linkedin_username: zitaoliu
 flickr_username: zitaoliu
 vimeo_username: zitao
+pinterest_username: zitaoliu
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -54,6 +55,7 @@ share_tumblr: true
 share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
+share_pinterest: true
 
 # Build settings
 markdown:     kramdown

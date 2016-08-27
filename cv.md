@@ -7,7 +7,7 @@ permalink: /cv/
 
 University of Pittsburgh, Pittsburgh, Pennsylvania USA
 
-* Ph.D. Candidate, Computer Science, 2010 - present
+* Ph.D, Computer Science, 2010 - 2016
 * Dissertation Topic:  "Time Series Modeling of Irregularly Sampled Multivariate Clinical Data" 
 * Advisor: [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/) 
 * [Google Scholar](http://scholar.google.com/citations?user=rRTzNm0AAAAJ)
@@ -19,6 +19,11 @@ Wuhan University, Wuhan, Hubei China
 
 
 ### Experience
+
+[Pinterest](http://www.pinterest.com/), San Francisco, California USA
+
+* Applied Scientist/Software Engineer, 08/2016 - Now 
+* Growth - Applied Science
 
 [Alibaba Group](http://data.alibaba.com/), Seattle, Washington USA
 
@@ -72,6 +77,7 @@ Wuhan University, Wuhan, Hubei China
 
 #### PC Member
 
+* International Conference on Signal Processing and Multimedia Applications(SIGMAP 2017)
 * International Workshop on Big Network Analytics (BNA 2016) (in conjunction with CIKM 2016) 
 * International Workshop on Mining Wearable Data for Healthcare (MWDHealth 2016) (in conjunction with ICHI 2016) 
 * ACM International Conference on Information and Knowledge Management(CIKM 2016)
