@@ -77,6 +77,7 @@ Wuhan University, Wuhan, Hubei China
 
 #### PC Member
 
+* AAAI Conference on Artificial Intelligence (AAAI 2017)
 * International Conference on Signal Processing and Multimedia Applications(SIGMAP 2017)
 * International Workshop on Big Network Analytics (BNA 2016) (in conjunction with CIKM 2016) 
 * International Workshop on Mining Wearable Data for Healthcare (MWDHealth 2016) (in conjunction with ICHI 2016) 
