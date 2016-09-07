@@ -1,6 +1,3 @@
-_site
-.sass-cache
-.DS_Store
-
-# Ignore the config file that's used for gh-pages.
-_config.gh-pages.yml
+*.un~
+.sass-cache/
+_site/
