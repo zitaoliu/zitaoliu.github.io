@@ -22,7 +22,7 @@ Wuhan University, Wuhan, Hubei China
 
 [Pinterest](http://www.pinterest.com/), San Francisco, California USA
 
-* Applied Scientist/Software Engineer, 08/2016 - Now 
+* Applied Scientist, 08/2016 - Now 
 * Growth - Applied Science
 
 [Alibaba Group](http://data.alibaba.com/), Seattle, Washington USA
