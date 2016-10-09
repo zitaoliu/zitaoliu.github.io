@@ -1,3 +1,4 @@
 *.un~
+*.DS_Store
 .sass-cache/
 _site/
