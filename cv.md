@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 ---
 
-### Education
+#### Education
 
 University of Pittsburgh, Pittsburgh, Pennsylvania USA
 
@@ -18,7 +18,7 @@ Wuhan University, Wuhan, Hubei China
 * B.Eng., Software Engineering, 2006 - 2010
 
 
-### Experience
+#### Experience
 
 [Pinterest](http://www.pinterest.com/), San Francisco, California USA
 
@@ -45,7 +45,7 @@ Wuhan University, Wuhan, Hubei China
 * Software Engineer Intern, 06/2012 - 08/2012
 * Ads Review Team
 
-### Honors & Awards
+#### Honors & Awards
 
 * SDM Student Travel Award 2013, 2014, 2016
 * AAAI Student Travel Award 2016
@@ -61,8 +61,6 @@ Wuhan University, Wuhan, Hubei China
 * National Scholarship, Ministry of Education of the People's Republic of China  2007, 2009
 * Citigroup Scholarship, Citigroup Services and Technology (China) Limited 2008
 
-
-### Academic Experience
 
 #### Journal Reviewer
 
