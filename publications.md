@@ -6,7 +6,7 @@ permalink: /publications/
 
 
 #### Clinical Time Series Analysis
-* [J1] **Z. Liu** and M. Hauskrecht. Clinical Time Series Prediction: Towards A Hierarchical Dynamical System Framework. \textit{Artificial Intelligence in Medicine (AIIM)}, 2015. <a href="{{ site.baseurl }}/download/aiim2015.pdf" class="button button-blue button-small">PDF</a>
+* [J1] **Z. Liu** and M. Hauskrecht. Clinical Time Series Prediction: Towards A Hierarchical Dynamical System Framework. Artificial Intelligence in Medicine (AIIM), 2015. <a href="{{ site.baseurl }}/download/aiim2015.pdf" class="button button-blue button-small">PDF</a>
 
 * [C6] **Z. Liu** and M. Hauskrecht. A Personalized Predictive Framework for Multivariate Clinical Time Series via Adaptive Model Selection. The 26th ACM International Conference on Information and Knowledge Management (CIKM), 2017. <a href="{{ site.baseurl }}/download/cikm2017.pdf" class="button button-blue button-small">PDF</a>
 
