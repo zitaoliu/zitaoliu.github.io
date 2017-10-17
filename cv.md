@@ -3,6 +3,8 @@ layout: page
 permalink: /cv/
 ---
 
+### Education
+
 University of Pittsburgh, Pittsburgh, Pennsylvania USA
 
 * Ph.D, Computer Science, 2010 - 2016
