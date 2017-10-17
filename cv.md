@@ -3,8 +3,6 @@ layout: page
 permalink: /cv/
 ---
 
-### Education
-
 University of Pittsburgh, Pittsburgh, Pennsylvania USA
 
 * Ph.D, Computer Science, 2010 - 2016
@@ -23,7 +21,7 @@ Wuhan University, Wuhan, Hubei China
 [Pinterest](http://www.pinterest.com/), San Francisco, California USA
 
 * Applied Scientist, 08/2016 - Now 
-* Growth - Applied Science
+* Discovery - Applied Science
 
 [Alibaba Group](http://data.alibaba.com/), Seattle, Washington USA
 

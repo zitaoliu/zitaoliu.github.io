@@ -5,8 +5,6 @@ permalink: /publications/
 
 
 
-### Publications
-
 #### Clinical Time Series Analysis
 * [J1] **Z. Liu** and M. Hauskrecht. Clinical Time Series Prediction: Towards A Hierarchical Dynamical System Framework. \textit{Artificial Intelligence in Medicine (AIIM)}, 2015. <a href="{{ site.baseurl }}/download/aiim2015.pdf" class="button button-blue button-small">PDF</a>
 
