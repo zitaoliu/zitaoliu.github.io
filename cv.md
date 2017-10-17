@@ -77,19 +77,19 @@ Wuhan University, Wuhan, Hubei China
 
 #### PC Member
 
-* AAAI Conference on Artificial Intelligence (AAAI 2017)
-* International Conference on Signal Processing and Multimedia Applications(SIGMAP 2017)
-* International Workshop on Big Network Analytics (BNA 2016) (in conjunction with CIKM 2016) 
-* International Workshop on Mining Wearable Data for Healthcare (MWDHealth 2016) (in conjunction with ICHI 2016) 
+* AAAI Conference on Artificial Intelligence(AAAI 2017, 2018)
+* The 6th Workshop on Data Mining for Medicine and Healthcare (DMMH 2017) (in conjunction with SDM 2017)
+* International Conference on Signal Processing and Multimedia Applications(SIGMAP 2015 - 2017)
+* The Third Workshop on Data Mining for Medical Informatics: Learning Health(DMMI 2016) (in conjunction with AMIA 2016) 
+* International Workshop on Big Network Analytics(BNA 2016) (in conjunction with CIKM 2016)
+* International Workshop on Mining Wearable Data for Healthcare (MWDHealth 2016) (in conjunction with ICHI 2016)
 * ACM International Conference on Information and Knowledge Management(CIKM 2016)
-* International Conference on Signal Processing and Multimedia Applications(SIGMAP 2016)
-* International Conference on Machine Learning and Data Mining(MLDM 2015)
-* Asian Conference on Intelligent Information and Database Systems(ACIIDS 2015)
-* International Conference on Signal Processing and Multimedia Applications(SIGMAP 2015)
+* International Conference on Machine Learning and Data Mining (MLDM 2015)
+* Asian Conference on Intelligent Information and Database Systems (ACIIDS 2015)
 
 #### External Reviewer
 
-WI2016, AAAI2016, ICML2015, NIPS2015, SDM2015, AAAI2015, CIKM 2014, ICDM2014, ICDM2013.
+SDM2017, WI2016, AAAI2016, ICML2015, NIPS2015, SBP2015, AIME2015, SDM2015, AAAI2015, CIKM2014, ICDM2014, ICDM2013.
 
 
 <div class="mt3">
