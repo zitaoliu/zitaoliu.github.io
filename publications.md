@@ -8,7 +8,7 @@ permalink: /publications/
 #### Clinical Time Series Analysis
 * [J1] **Z. Liu** and M. Hauskrecht. Clinical Time Series Prediction: Towards A Hierarchical Dynamical System Framework. Artificial Intelligence in Medicine (AIIM), 2015. <a href="{{ site.baseurl }}/download/aiim2015.pdf" class="button button-blue button-small">PDF</a>
 
-* [C6] **Z. Liu** and M. Hauskrecht. A Personalized Predictive Framework for Multivariate Clinical Time Series via Adaptive Model Selection. The 26th ACM International Conference on Information and Knowledge Management (CIKM), 2017. <a href="{{ site.baseurl }}/download/cikm2017.pdf" class="button button-blue button-small">PDF</a>
+* [C6] **Z. Liu** and M. Hauskrecht. A Personalized Predictive Framework for Multivariate Clinical Time Series via Adaptive Model Selection. The 26th ACM International Conference on Information and Knowledge Management (CIKM), 2017. <a href="{{ site.baseurl }}/download/cikm2017.pdf" class="button button-blue button-small">PDF</a> <a href="{{ site.baseurl }}/download/cikm2017_slides.pdf" class="button button-blue button-small">Slides</a>
 
 * [C5] **Z. Liu** and M. Hauskrecht. Learning Linear Dynamical Systems from Multivariate Time Series: A Matrix Factorization Based Framework. SIAM International Conference on Data Mining(SDM), 2016. <a href="{{ site.baseurl }}/download/sdm2016.pdf" class="button button-blue button-small">PDF</a> <a href="{{ site.baseurl }}/download/sdm2016_sup.pdf" class="button button-blue button-small">Supplemental Material</a> <a href="{{ site.baseurl }}/download/sdm2016_slides.pdf" class="button button-blue button-small">Slides</a> <a href="{{ site.baseurl }}/download/sdm2016_poster.pdf" class="button button-blue button-small">Poster</a> 
 
