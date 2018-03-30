@@ -4,9 +4,9 @@ Prior to joining Pinterest, I obtained my Ph.D in Computer Science at University
 
 I was also fortunate to work as a research intern at [Alibaba Group](http://data.alibaba.com/)(2015), [Yahoo! Labs](http://labs.yahoo.com/)(2014), [eBay Research Lab](http://labs.ebay.com/)(2013), and a software engineer intern at [Google](http://www.google.com/)(2012).
 
+* * *
 
 #### Publication
-* * *
 
 * C. Eksombatchai, P. Jindal, **Z. Liu**, Y. Liu, R. Sharma, C. Sugnet, M. Ulrich, J. Leskovec. Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time. WWW, 2018. <a href="{{ site.baseurl }}/download/" class="button button-blue button-small">PDF</a> 
 
