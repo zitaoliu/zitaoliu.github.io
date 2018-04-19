@@ -9,6 +9,8 @@ I was also fortunate to work as a research intern at [Alibaba Group](http://data
 
 #### Publication
 
+* **Z. Liu**, Y. Yan, M. Hauskrecht. A Flexible Forecasting Framework for Hierarchical Time Series with Seasonal Patterns: A Case Study of Web Traffic. SIGIR, 2018. <a href="{{ site.baseurl }}/download/" class="button button-blue button-small">PDF</a> 
+
 * C. Eksombatchai, P. Jindal, **Z. Liu**, Y. Liu, R. Sharma, C. Sugnet, M. Ulrich, J. Leskovec. Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time. WWW, 2018. <a href="{{ site.baseurl }}/download/" class="button button-blue button-small">PDF</a> 
 
 * **Z. Liu** and M. Hauskrecht. A Personalized Predictive Framework for Multivariate Clinical Time Series via Adaptive Model Selection. CIKM, 2017. <a href="{{ site.baseurl }}/download/cikm2017.pdf" class="button button-blue button-small">PDF</a> 
