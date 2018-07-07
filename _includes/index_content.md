@@ -9,6 +9,10 @@ I was also fortunate to work as a research intern at [Alibaba Group](http://data
 
 #### Publication
 
+* Y. Yan, **Z. Liu**, M. Zhao, W. Tao, P. Yan, and Y. Bao. A Practical Deep Online Ranking System in E-commerce Recommendation. ECML, 2018. <a href="{{ site.baseurl }}/download/" class="button button-blue button-small">PDF</a> 
+
+* W. Luo, F. Liu, **Z. Liu** and D. Litman. A Novel ILP Framework for Summarizing Content with High Lexical Variety. Journal of Natural Language Engineering, 2018. <a href="{{ site.baseurl }}/download/" class="button button-blue button-small">PDF</a> 
+
 * **Z. Liu**, Y. Yan, M. Hauskrecht. A Flexible Forecasting Framework for Hierarchical Time Series with Seasonal Patterns: A Case Study of Web Traffic. SIGIR, 2018. <a href="{{ site.baseurl }}/download/" class="button button-blue button-small">PDF</a> 
 
 * C. Eksombatchai, P. Jindal, **Z. Liu**, Y. Liu, R. Sharma, C. Sugnet, M. Ulrich, J. Leskovec. Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time. WWW, 2018. <a href="{{ site.baseurl }}/download/www2018.pdf" class="button button-blue button-small">PDF</a> 
