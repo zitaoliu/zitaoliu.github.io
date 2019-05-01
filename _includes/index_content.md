@@ -1,5 +1,5 @@
 
-I work at TAL Education Group since 2018. I lead a team working on ML/CV/NLP/Speech and its applications in K-12 education.
+I work at TAL Education Group since 2018. I lead a team working on ML/CV/NLP/Speech problems and its applications in K-12 education.
 
 Prior to joining TAL, I was a senior applied scientist at Pinterest. I obtained my Ph.D in Computer Science at University of Pittsburgh. His Ph.D. advisor is Professor [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). 
 
@@ -26,7 +26,7 @@ T. Liu, Z. Wang, J. Tang, S. Yang, **Z. Liu**
 WWW'19, International Conference on the World Wide Web, 2019. 
 
 **Learning Effective Embeddings From Crowdsourced Labels: An Educational Case Study**  
-G. Xu, W. Ding, S. Yang, **Z. Liu**  
+G. Xu, W. Ding, J. Tang, S. Yang, **Z. Liu**  
 ICDE'19: The 35th IEEE International Conference on Data Engineering, 2019. 
 
 **What is That in Your Hand? Recognizing Grasped Objects via Forearm Electromyography Sensing**  
