@@ -1,13 +1,13 @@
 
-I work as an applied scientist at [Pinterest](https://www.pinterest.com) since 2016.  
+I work at TAL Education Group since 2018. I lead a team working on ML/CV/NLP/Speech and its applications in K-12 education.
 
-Prior to joining Pinterest, I obtained my Ph.D in Computer Science at University of Pittsburgh, where I was a research assistant under Professor [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). My research work focuses on clinical time series modeling. 
+Prior to joining TAL, I was a senior applied scientist at Pinterest. I obtained my Ph.D in Computer Science at University of Pittsburgh. His Ph.D. advisor is Professor [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). 
 
 I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo! Labs (2014), eBay Research Lab (2013), and a software engineer intern at Google (2012).
 
 * * *
 
-### Publication
+## Publication
 
 **A Multimodal Alerting System for Online Class Quality Assurance**  
 J. Chen, H. Li, W. Wang, W. Ding, G. Huang, **Z. Liu**  
