@@ -9,11 +9,13 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 #### Publication
 
-Recommender Systems with Heterogeneous Side Information
-T. Liu, Z. Wang, J. Tang, S. Yang, **Z. Liu**. 
+**Recommender Systems with Heterogeneous Side Information**  
+T. Liu, Z. Wang, J. Tang, S. Yang, **Z. Liu**
 WWW, 2019. 
 
-G. Xu, W. Ding, S. Yang, **Z. Liu**. Learning Effective Embeddings From Crowdsourced Labels: An Educational Case Study. ICDE, 2019. 
+**Learning Effective Embeddings From Crowdsourced Labels: An Educational Case Study**  
+G. Xu, W. Ding, S. Yang, **Z. Liu**
+ICDE, 2019. 
 
 J. Fan, X. Fan, F. Tian, Y. Li, **Z. Liu**, W. Sun, and H. Wang. What is That in Your Hand? Recognizing Grasped Objects via Forearm Electromyography Sensing. Ubicomp, 2019. 
 
