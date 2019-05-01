@@ -7,7 +7,7 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 * * *
 
-## Publication
+### Publication
 
 **A Multimodal Alerting System for Online Class Quality Assurance**  
 J. Chen, H. Li, W. Wang, W. Ding, G. Huang, **Z. Liu**  
