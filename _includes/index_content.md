@@ -9,6 +9,14 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Learning Multi-level Dependencies for Robust Word Recognition**
+Z. Wang, H. Liu, J. Tang, S. Yang, G. Huang, **Z. Liu**  
+AAAI'20: The 34th AAAI Conference on Artificial Intelligence, 2020. 
+
+**Graduate Employment Prediction with Bias**
+T. Guo, F. Xia, S. Zhen, X. Bai, D. Zhang, **Z. Liu**, J. Tang
+AAAI'20: The 34th AAAI Conference on Artificial Intelligence, 2020. 
+
 **A Multimodal Alerting System for Online Class Quality Assurance**  
 J. Chen, H. Li, W. Wang, W. Ding, G. Huang, **Z. Liu**  
 AIED'19: The 20th International Conference on Artificial Intelligence in Education, 2019.
