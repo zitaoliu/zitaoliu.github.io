@@ -9,6 +9,22 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Multimodal Learning For Classroom Activity Detection**  
+H. Li, Y. Kang, W. Ding, S. Yang, S. Yang, Y. Huang, **Z. Liu**  
+ICASSP'20: The 45th International Conference on Acoustics, Speech, and Signal Processing, 2020.
+
+**Upgrading CRFs to JRFs And Its Benefits To Sequence Modeling And Labeling**  
+Y. Song, Z. Ou, **Z. Liu**, S. Yang  
+ICASSP'20: The 45th International Conference on Acoustics, Speech, and Signal Processing, 2020.
+
+**Dolphin: A Verbal Fluency Evaluation System for Elementary Education**  
+W. Ding, G. Xu, T. Liu, W. Fu, Y. Song, C. Guo, C. Kong, S. Yang, Y. Huang, **Z. Liu**  
+WWW'20, International Conference on the World Wide Web, 2020.
+
+**Global-and-Local Aware Data Generation for the Class Imbalance Problem**  
+W. Wang, S. Wang, W. Fan, **Z. Liu**, J. Tang  
+SDM'20: SIAM International Conference on Data Mining, 2020.
+
 **Learning Multi-level Dependencies for Robust Word Recognition**  
 Z. Wang, H. Liu, J. Tang, S. Yang, G. Huang, **Z. Liu**  
 AAAI'20: The 34th AAAI Conference on Artificial Intelligence, 2020.
