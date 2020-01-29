@@ -17,9 +17,9 @@ ICASSP'20: The 45th International Conference on Acoustics, Speech, and Signal Pr
 Y. Song, Z. Ou, **Z. Liu**, S. Yang  
 ICASSP'20: The 45th International Conference on Acoustics, Speech, and Signal Processing, 2020.
 
-**Dolphin: A Verbal Fluency Evaluation System for Elementary Education**  
+**Dolphin: A Spoken Language Proficiency Assessment System for Elementary Education**  
 W. Ding, G. Xu, T. Liu, W. Fu, Y. Song, C. Guo, C. Kong, S. Yang, Y. Huang, **Z. Liu**  
-WWW'20, International Conference on the World Wide Web, 2020.
+WWW'20, The Web Conference, 2020.
 
 **Global-and-Local Aware Data Generation for the Class Imbalance Problem**  
 W. Wang, S. Wang, W. Fan, **Z. Liu**, J. Tang  
@@ -47,7 +47,7 @@ AIED'19: The 20th International Conference on Artificial Intelligence in Educati
 
 **Recommender Systems with Heterogeneous Side Information**  
 T. Liu, Z. Wang, J. Tang, S. Yang, **Z. Liu**  
-WWW'19, International Conference on the World Wide Web, 2019. 
+WWW'19, The Web Conference, 2019. 
 
 **Learning Effective Embeddings From Crowdsourced Labels: An Educational Case Study**  
 G. Xu, W. Ding, J. Tang, S. Yang, **Z. Liu**  
@@ -69,10 +69,9 @@ NLE'18: Journal of Natural Language Engineering, 2018.
 **Z. Liu**, Y. Yan, M. Hauskrecht  
 SIGIR'18: The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, 2018. 
 
-
 **Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time**  
 C. Eksombatchai, P. Jindal, **Z. Liu**, Y. Liu, R. Sharma, C. Sugnet, M. Ulrich, J. Leskovec  
-WWW'18: International Conference on the World Wide Web, 2018. 
+WWW'18: The Web Conference, 2018. 
 
 **A Personalized Predictive Framework for Multivariate Clinical Time Series via Adaptive Model Selection**  
 **Z. Liu** and M. Hauskrecht  
