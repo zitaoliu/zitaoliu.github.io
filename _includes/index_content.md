@@ -9,6 +9,22 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Identifying At-Risk K-12 Students in Multimodal Online Environments: A Machine Learning Approach**  
+H. Li, W. Ding, **Z. Liu**  
+EDM'20: The 13th International Conference on Educational Data Mining, 2020.
+
+**Siamese Neural Networks for Class Activity Detection**  
+H. Li, Z. Wang, J. Tang, W. Ding, **Z. Liu**  
+AIED'20: The 21th International Conference on Artificial Intelligence in Education, 2020.
+
+**Neural Multi-Task Learning for Teacher Question Detection in Online Classrooms**  
+G. Huang, J. Chen, H. Liu, W. Fu, W. Ding, J. Tang, S. Yang, G. Li, **Z. Liu**  
+AIED'20: The 21th International Conference on Artificial Intelligence in Education, 2020.
+
+**Automatic Dialogic Instruction Detection for K-12 Online One-on-one Classes**  
+S. Xu, W. Ding, **Z. Liu**  
+AIED'20: The 21th International Conference on Artificial Intelligence in Education, 2020.
+
 **Multimodal Learning For Classroom Activity Detection**  
 H. Li, Y. Kang, W. Ding, S. Yang, S. Yang, Y. Huang, **Z. Liu**  
 ICASSP'20: The 45th International Conference on Acoustics, Speech, and Signal Processing, 2020.
