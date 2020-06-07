@@ -71,7 +71,7 @@ ICDE'19: The 35th IEEE International Conference on Data Engineering, 2019.
 
 **What is That in Your Hand? Recognizing Grasped Objects via Forearm Electromyography Sensing**  
 J. Fan, X. Fan, F. Tian, Y. Li, **Z. Liu**, W. Sun, and H. Wang  
-Ubicomp'19: The 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2019. 
+Ubicomp'18: The 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2018. 
 
 **A Practical Deep Online Ranking System in E-commerce Recommendation**    
 Y. Yan, **Z. Liu**, M. Zhao, W. Tao, P. Yan, and Y. Bao  
@@ -87,7 +87,7 @@ SIGIR'18: The 41st International ACM SIGIR Conference on Research and Developmen
 
 **Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time**  
 C. Eksombatchai, P. Jindal, **Z. Liu**, Y. Liu, R. Sharma, C. Sugnet, M. Ulrich, J. Leskovec  
-WWW'18: The Web Conference, 2018. 
+WWW'18: The World Wide Web Conference, 2018. 
 
 **A Personalized Predictive Framework for Multivariate Clinical Time Series via Adaptive Model Selection**  
 **Z. Liu** and M. Hauskrecht  
