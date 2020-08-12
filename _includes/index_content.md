@@ -9,6 +9,22 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Representation Learning from Limited Educational Data with Crowdsourced Labels**  
+W. Wang, G. Xu, W. Ding, G. Huang, G. Li, J. Tang, **Z. Liu**  
+TKDE'20: IEEE Transaction on Knowledge and Data Engineering (Accepted), 2020.
+
+**Zero-Shot Image Dehazing**  
+B. Li, Y. Gou, **Z. Liu**, H. Zhu, J. Zhou, X. Peng  
+TIP'20: IEEE Transaction on Image Processing (Accepted), 2020.
+
+**Sequence Learning with Side Dependencies**  
+Z. Wang, H. Liu, G. Huang, **Z. Liu**  
+DSAA'20: The 7th IEEE International Conference on Data Science and Advanced Analytics, 2020.
+
+**Identifying At-Risk K-12 Students in Multimodal Online Environments: A Machine Learning Approach**  
+H. Li, W. Ding, **Z. Liu**  
+EDM'20: The 13th International Conference on Educational Data Mining, 2020.
+
 **Identifying At-Risk K-12 Students in Multimodal Online Environments: A Machine Learning Approach**  
 H. Li, W. Ding, **Z. Liu**  
 EDM'20: The 13th International Conference on Educational Data Mining, 2020.
