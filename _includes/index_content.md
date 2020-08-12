@@ -25,10 +25,6 @@ DSAA'20: The 7th IEEE International Conference on Data Science and Advanced Anal
 H. Li, W. Ding, **Z. Liu**  
 EDM'20: The 13th International Conference on Educational Data Mining, 2020.
 
-**Identifying At-Risk K-12 Students in Multimodal Online Environments: A Machine Learning Approach**  
-H. Li, W. Ding, **Z. Liu**  
-EDM'20: The 13th International Conference on Educational Data Mining, 2020.
-
 **Siamese Neural Networks for Class Activity Detection**  
 H. Li, Z. Wang, J. Tang, W. Ding, **Z. Liu**  
 AIED'20: The 21th International Conference on Artificial Intelligence in Education, 2020.
