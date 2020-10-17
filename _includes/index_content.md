@@ -31,14 +31,14 @@ EMNLP'20: The 2020 Conference on Empirical Methods in Natural Language Processin
 
 **CLEARER: Multi-Scale Neural Architecture Search for Image Restoration**  
 Y. Gou, B. Li, **Z. Liu**, S. Yang, X. Peng  
-NeurIPS'20: The Thirty-fourth Annual Conference on Neural Information Processing Systems, 2020.
+NeurIPS'20: The 34th Annual Conference on Neural Information Processing Systems, 2020.
 
 **Learning from Incomplete Labeled Data via Adversarial Data Generation**  
-W. Wang, T. Derr, Y. Ma, S. Wang, H. Liu, **Z. Liu**, J. Tang 
+W. Wang, T. Derr, Y. Ma, S. Wang, H. Liu, **Z. Liu**, J. Tang  
 ICDM'20: The 20th IEEE International Conference on Data Mining, 2020.
 
 **Synchronous Bidirectional Learning for Multilingual Lip Reading**  
-M. Luo, S. Yang, X. Chen, **Z. Liu**, S. Shan.
+M. Luo, S. Yang, X. Chen, **Z. Liu**, S. Shan  
 BMVC'20: The British Machine Vision Conference, 2020.
 
 **Representation Learning from Limited Educational Data with Crowdsourced Labels**  
