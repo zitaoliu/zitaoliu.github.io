@@ -9,13 +9,45 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Node Similarity Preserving Graph Convolutional Networks**  
+W. Jin, T. Derr, Y. Wang, Y. Ma, **Z. Liu**, J. Tang  
+WSDM'21: The 14th ACM International Web Search and Data Mining Conference, 2020.
+
+**Personalized Multimodal Feedback Generation in Education**  
+H. Liu, **Z. Liu**, Z. Wu and J. Tang  
+COLING'20: The 28th International Conference on Computational Linguistics, 2020.
+
+**Does Gender Matter? Towards Fairness in Dialogue Systems**  
+H. Liu, J. Dacon, W. Fan, H. Liu, **Z. Liu**, J. Tang  
+COLING'20: The 28th International Conference on Computational Linguistics, 2020.
+
+**Learning Goal-oriented Dialogue Policy with Opposite Agent Awareness**  
+Z. Zhang, L. Liao, X. Zhu, T. Chua, **Z. Liu**, Y. Huang, M. Huang 
+AACL'20: The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, 2020.
+
+**Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning**  
+H. Liu, W. Wang, Y. Wang, H. Liu, **Z. Liu** and J. Tang  
+EMNLP'20: The 2020 Conference on Empirical Methods in Natural Language Processing, 2020.
+
+**CLEARER: Multi-Scale Neural Architecture Search for Image Restoration**  
+Y. Gou, B. Li, **Z. Liu**, S. Yang, X. Peng  
+NeurIPS'20: The Thirty-fourth Annual Conference on Neural Information Processing Systems, 2020.
+
+**Learning from Incomplete Labeled Data via Adversarial Data Generation**  
+W. Wang, T. Derr, Y. Ma, S. Wang, H. Liu, **Z. Liu**, J. Tang 
+ICDM'20: The 20th IEEE International Conference on Data Mining, 2020.
+
+**Synchronous Bidirectional Learning for Multilingual Lip Reading**  
+M. Luo, S. Yang, X. Chen, **Z. Liu**, S. Shan.
+BMVC'20: The British Machine Vision Conference, 2020.
+
 **Representation Learning from Limited Educational Data with Crowdsourced Labels**  
 W. Wang, G. Xu, W. Ding, G. Huang, G. Li, J. Tang, **Z. Liu**  
-TKDE'20: IEEE Transaction on Knowledge and Data Engineering (Accepted), 2020.
+TKDE'20: IEEE Transaction on Knowledge and Data Engineering, 2020.
 
 **Zero-Shot Image Dehazing**  
 B. Li, Y. Gou, **Z. Liu**, H. Zhu, J. Zhou, X. Peng  
-TIP'20: IEEE Transaction on Image Processing (Accepted), 2020.
+TIP'20: IEEE Transaction on Image Processing, 2020.
 
 **Sequence Learning with Side Dependencies**  
 Z. Wang, H. Liu, G. Huang, **Z. Liu**  
