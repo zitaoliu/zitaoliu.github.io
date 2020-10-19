@@ -22,7 +22,7 @@ H. Liu, J. Dacon, W. Fan, H. Liu, **Z. Liu**, J. Tang
 COLING'20: The 28th International Conference on Computational Linguistics, 2020.
 
 **Learning Goal-oriented Dialogue Policy with Opposite Agent Awareness**  
-Z. Zhang, L. Liao, X. Zhu, T. Chua, **Z. Liu**, Y. Huang, M. Huang 
+Z. Zhang, L. Liao, X. Zhu, T. Chua, **Z. Liu**, Y. Huang, M. Huang  
 AACL'20: The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, 2020.
 
 **Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning**  
