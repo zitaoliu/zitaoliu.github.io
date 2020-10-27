@@ -11,7 +11,7 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 **Node Similarity Preserving Graph Convolutional Networks**  
 W. Jin, T. Derr, Y. Wang, Y. Ma, **Z. Liu**, J. Tang  
-WSDM'21: The 14th ACM International Web Search and Data Mining Conference, 2020.
+WSDM'21: The 14th ACM International Web Search and Data Mining Conference, 2021.
 
 **Personalized Multimodal Feedback Generation in Education**  
 H. Liu, **Z. Liu**, Z. Wu and J. Tang  
