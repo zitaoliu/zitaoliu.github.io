@@ -9,6 +9,10 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Contrastive Clustering**  
+Y. Li, P. Hu, **Z. Liu**, D. Peng, T. Zhou, X. Peng  
+AAAI'21: The 35th AAAI Conference on Artificial Intelligence, 2021.
+
 **Node Similarity Preserving Graph Convolutional Networks**  
 W. Jin, T. Derr, Y. Wang, Y. Ma, **Z. Liu**, J. Tang  
 WSDM'21: The 14th ACM International Web Search and Data Mining Conference, 2021.
