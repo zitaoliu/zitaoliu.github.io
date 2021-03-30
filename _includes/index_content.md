@@ -9,6 +9,26 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Partially View-aligned Representation Learning with Noise-robust Contrastive Loss**  
+M. Yang, Y. Li, Z. Huang, **Z. Liu**, P. Hu, X. Peng  
+CVPR'21: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021.
+
+**COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction**  
+Y. Lin, Y. Gou, **Z. Liu**, B. Li, J. Lv, X. Peng  
+CVPR'21: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021.
+
+**CrowdRL: An End-to-End Reinforcement Learning Framework for Data Labelling**  
+K. Li, G. Li, Y. Wang, Y. Huang, **Z. Liu**, and Z. Wu  
+ICDE'21: The 37th IEEE International Conference on Data Engineering, 2021.
+
+**You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network**  
+B. Li, Y. Gou, S. Gu, **Z. Liu**, J. Zhou, X. Peng  
+IJCV'21: International Journal of Computer Vision, 2021.
+
+**Real-time and Effective Pan-sharpening for Remote Sensing using Multi-scale Fusion Network**  
+Z. Lai, L. Chen, G. Jeon, **Z. Liu**, R. Zhong, X. Yang  
+JRTIP'21: Journal of Real-Time Image Processing, 2021.
+
 **Contrastive Clustering**  
 Y. Li, P. Hu, **Z. Liu**, D. Peng, T. Zhou, X. Peng  
 AAAI'21: The 35th AAAI Conference on Artificial Intelligence, 2021.
