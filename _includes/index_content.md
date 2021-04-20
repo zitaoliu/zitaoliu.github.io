@@ -9,6 +9,26 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Multi-Task Learning based Online Dialogic Instruction Detection with Pre-trained Language Models**  
+Y. Hao, H. Li, W. Ding, Z. Wu, J. Tang, R. Luckin, **Z. Liu**  
+AIED'21: The 22nd International Conference on Artificial Intelligence in Education, 2021.
+
+**An Educational System for Personalized Teacher Recommendation in K-12 Online Classrooms**  
+J. Chen, H. Li, W. Ding, **Z. Liu**  
+AIED'21: The 22nd International Conference on Artificial Intelligence in Education, 2021.
+
+**Solving ESL Sentence Completion Questions via Pre-trained Neural Language Models**  
+Q. Liu, T. Liu, J. Zhao, Q. Fang, W. Ding, Z. Wu, F. Xia, J. Tang, **Z. Liu**  
+AIED'21: The 22nd International Conference on Artificial Intelligence in Education, 2021.
+
+**Automatic Task Requirements Writing Evaluation via Machine Reading Comprehension**  
+S. Xu, G. Xu, P. Jia, W. Ding, Z. Wu, **Z. Liu**  
+AIED'21: The 22nd International Conference on Artificial Intelligence in Education, 2021.
+
+**A Multimodal Machine Learning Framework for Teacher Vocal Delivery Evaluation**  
+H. Li, Y. Kang, Y. Hao, W. Ding, Z. Wu, **Z. Liu**  
+AIED'21: The 22nd International Conference on Artificial Intelligence in Education, 2021.
+
 **Partially View-aligned Representation Learning with Noise-robust Contrastive Loss**  
 M. Yang, Y. Li, Z. Huang, **Z. Liu**, P. Hu, X. Peng  
 CVPR'21: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021.
