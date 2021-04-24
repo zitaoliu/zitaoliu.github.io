@@ -29,6 +29,10 @@ AIED'21: The 22nd International Conference on Artificial Intelligence in Educati
 H. Li, Y. Kang, Y. Hao, W. Ding, Z. Wu, **Z. Liu**  
 AIED'21: The 22nd International Conference on Artificial Intelligence in Education, 2021.
 
+**Interactive Knowledge Distillation for Image Classification**  
+S. Fu, Z. Li, **Z. Liu**, X. Yang  
+Neurocomputing'21: Neurocomputing, 2021.
+
 **Partially View-aligned Representation Learning with Noise-robust Contrastive Loss**  
 M. Yang, Y. Li, Z. Huang, **Z. Liu**, P. Hu, X. Peng  
 CVPR'21: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021.
