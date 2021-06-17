@@ -1,5 +1,5 @@
 
-I work at TAL Education Group since 2018. I lead a team working on ML/CV/NLP/Speech problems and its applications in K-12 education.
+I work at TAL Education Group since 2018. I lead a team of 200+ engineers to transform the K-12 one-on-one education industry, both online and offline.
 
 Prior to joining TAL, I was a senior applied scientist at Pinterest. I obtained my Ph.D in Computer Science at University of Pittsburgh. His Ph.D. advisor is Professor [Milos Hauskrecht](http://people.cs.pitt.edu/~milos/). 
 
@@ -8,6 +8,22 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 * * *
 
 ### Publications
+
+**Learning Fine-Grained Cross Modality Excitement for Speech Emotion Recognition**  
+H. Li, W. Ding, Z. Wu, **Z. Liu**  
+INTERSPEECH'21: The Interspeech Conference, 2021.
+
+**Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence**  
+J. Guan, X. Mao, C. Fan, **Z. Liu**, W. Ding, M. Huang  
+ACL'21: The 59th Annual Meeting of the Association for Computational Linguistics, 2021.
+
+**OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics**  
+J. Guan, Z. Zhang, Z. Feng, **Z. Liu**, W. Ding, X. Mao, C. Fan, M. Huang  
+ACL'21: The 59th Annual Meeting of the Association for Computational Linguistics, 2021.
+
+**The Authors Matter: Understanding and Mitigating Implicit Bias in Deep Text Classification**  
+H. Liu, W. Jin, H. Karimi, **Z. Liu**, J. Tang  
+Findings of ACL'21: The 59th Annual Meeting of the Association for Computational Linguistics, 2021.
 
 **Multi-Task Learning based Online Dialogic Instruction Detection with Pre-trained Language Models**  
 Y. Hao, H. Li, W. Ding, Z. Wu, J. Tang, R. Luckin, **Z. Liu**  
