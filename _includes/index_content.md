@@ -9,6 +9,10 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Robust Learning for Text Classification with Multi-source Noise Simulation and Hard Example Mining**  
+G. Xu, W. Ding, W. Fu, Z. Wu, **Z. Liu**  
+ECML-PKDD'21: The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2021.
+
 **Learning Fine-Grained Cross Modality Excitement for Speech Emotion Recognition**  
 H. Li, W. Ding, Z. Wu, **Z. Liu**  
 INTERSPEECH'21: The Interspeech Conference, 2021.
@@ -183,7 +187,7 @@ Ubicomp'18: The 2018 ACM International Joint Conference on Pervasive and Ubiquit
 
 **A Practical Deep Online Ranking System in E-commerce Recommendation**    
 Y. Yan, **Z. Liu**, M. Zhao, W. Tao, P. Yan, and Y. Bao  
-ECML-PKDD'18: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2018. 
+ECML-PKDD'18: The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2018. 
 
 **A Novel ILP Framework for Summarizing Content with High Lexical Variety**  
 W. Luo, F. Liu, **Z. Liu** and D. Litman  
