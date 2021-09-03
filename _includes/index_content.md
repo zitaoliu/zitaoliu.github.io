@@ -9,6 +9,14 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Mathematical Word Problem Generation from Commonsense Knowledge Graph and Equations**  
+T. Liu, Q. Fang, W. Ding, H. Li, Z. Wu, **Z. Liu**  
+EMNLP'21: The 2021 Conference on Empirical Methods in Natural Language Processing, 2021.
+
+**CTAL: Pre-training Cross-modal Transformer for Audio-and-Language Representations**  
+H. Li, W. Ding, Y. Kang, T. Liu, Z. Wu, **Z. Liu**  
+EMNLP'21: The 2021 Conference on Empirical Methods in Natural Language Processing, 2021.
+
 **Robust Learning for Text Classification with Multi-source Noise Simulation and Hard Example Mining**  
 G. Xu, W. Ding, W. Fu, Z. Wu, **Z. Liu**  
 ECML-PKDD'21: The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2021.
