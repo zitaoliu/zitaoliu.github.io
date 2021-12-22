@@ -9,6 +9,10 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**Learning from Imbalanced Crowdsourced Labeled Data**  
+W. Wang, J. Thekinen, X. Liu, **Z. Liu**, J. Tang  
+SDM'22: SIAM International Conference on Data Mining, 2022.
+
 **Graph Neural Networks with Adaptive Residual**  
 X. Liu, J. Ding, W. Jin, H. Xu, Y. Ma, **Z. Liu**, J. Tang  
 NeurIPS'21: The 35th Conference on Neural Information Processing Systems, 2021.
