@@ -9,6 +9,14 @@ I was also fortunate to work as a research intern at Alibaba iDST (2015), Yahoo!
 
 ### Publications
 
+**SUMMER: Bias-aware Prediction of Graduate Employment Based on Educational Big Data**  
+F. Xia, T. Guo, X. Bai, A. Shatte, **Z. Liu**, J. Tang  
+TDS'22: ACM Transactions on Data Science, 2022.
+
+**NeuCrowd: Neural Sampling Network for Representation Learning with Crowdsourced Labels**  
+Y. Hao, W. Ding, **Z. Liu**  
+KAIS'22: Knowledge and Information Systems, 2022.
+
 **Learning from Imbalanced Crowdsourced Labeled Data**  
 W. Wang, J. Thekinen, X. Liu, **Z. Liu**, J. Tang  
 SDM'22: SIAM International Conference on Data Mining, 2022.
@@ -16,10 +24,6 @@ SDM'22: SIAM International Conference on Data Mining, 2022.
 **Graph Neural Networks with Adaptive Residual**  
 X. Liu, J. Ding, W. Jin, H. Xu, Y. Ma, **Z. Liu**, J. Tang  
 NeurIPS'21: The 35th Conference on Neural Information Processing Systems, 2021.
-
-**NeuCrowd: Neural Sampling Network for Representation Learning with Crowdsourced Labels**  
-Y. Hao, W. Ding, **Z. Liu**  
-KAIS'21: Knowledge and Information Systems, 2021.
 
 **Mathematical Word Problem Generation from Commonsense Knowledge Graph and Equations**  
 T. Liu, Q. Fang, W. Ding, H. Li, Z. Wu, **Z. Liu**  
