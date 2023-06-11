@@ -1,0 +1,331 @@
+achievements:
+
+  - title: "直播类在线教学平台安全保障要求"
+    subtitle: "Cyber security requirements of online streaming classes platform"
+    standard_no: "JY/T 0651-2022"
+    venue: "中华人民共和国教育部"
+    standard: y
+
+  - title: "词典笔功能要求及测试方法"
+    subtitle: "Functional requirements and test methods for dictionary pen"
+    standard_no: "T/ISC 0020-2022"
+    venue: "中国互联网协会"
+    standard: y
+
+  - title: "互联网企业未成年人网络保护管理体系"
+    subtitle: "Management system on minors online protection for Internet companies"
+    standard_no: "T/ISC 0027—2023"
+    venue: "中国互联网协会"
+    standard: y
+
+  - title: "儿童陪伴机器人技术规范"
+    subtitle: "Technical specification for children's companion robot"
+    standard_no: "T/SUCA 041-2022"
+    venue: "深圳市8K超高清视频产业协作联盟"
+    standard: y
+
+
+  - title: "Sentence type recognition method and apparatus, electronic device, and storage medium"
+    patent_no: "Pub. No.: US 2023/0134101 A1"
+    date: "Pub. Date: May 4, 2023"
+    us_patent: y
+
+
+  - title: "Speaker recognition method, electronic device, and storage medium"
+    patent_no: "Pub. No.: US 2023/0130253 A1"
+    date: "Pub. Date: Apr. 27, 2023"
+    us_patent: y
+
+  - title: "Data processing method, electronic device and computer-readable medium"
+    patent_no: "Pub.No.:US202/0358362A1"
+    date: "Pub.Date: Nov. 10,2022"
+    us_patent: y
+
+
+  - title: "Method for determining teaching style, and computer storage medium"
+    patent_no: "Pub.No.:US202/027016A1"
+    date: "Pub.Date: Aug. 25,2022"
+    us_patent: y
+
+
+  - title: "Data reduction for node graph creation"
+    patent_no: "PatentNo.: US11,256,747B1"
+    date: "Date of Patent: Feb. 22,2022"
+    us_patent: y
+
+
+  - title: "Method and apparatus for object preference prediction, and computer readable medium"
+    patent_no: "Pub.No.:US202/04137A1"
+    date: "Pub.Date: Feb.10,2022"
+    us_patent: y
+
+
+  - title: "教师风格预测模型的训练方法及计算机存储介质"
+    patent_no: "CN111832787B"
+    date: "2022-12-09"
+    china_patent: y
+  
+    
+  - title: "课堂质量模型的训练方法、课堂质量评价方法及装置"
+    patent_no: "CN112116181B"
+    date: "2022-12-02"
+    china_patent: y
+  
+    
+  - title: "视频切分方法、装置和计算机存储介质"
+    patent_no: "CN111601162B"
+    date: "2022-08-02"
+    china_patent: y
+  
+    
+  - title: "语句类型识别方法、装置、电子设备和存储介质"
+    patent_no: "CN111753553B"
+    date: "2022-07-05"
+    china_patent: y
+  
+    
+  - title: "音频识别方法、装置、电子设备及存储介质"
+    patent_no: "CN113096646B"
+    date: "2022-06-07"
+    china_patent: y
+  
+    
+  - title: "说话人识别方法、装置、电子设备及存储介质"
+    patent_no: "CN111785287B"
+    date: "2022-06-07"
+    china_patent: y
+  
+    
+  - title: "音频内容质量的检测方法及装置"
+    patent_no: "CN112559798B"
+    date: "2022-05-17"
+    china_patent: y
+  
+    
+  - title: "教师风格的确定方法及计算机存储介质"
+    patent_no: "CN111832595B"
+    date: "2022-05-06"
+    china_patent: y
+  
+    
+  - title: "颜值打分模型训练方法、颜值打分方法及相关装置"
+    patent_no: "CN111626248B"
+    date: "2022-05-06"
+    china_patent: y
+  
+    
+  - title: "文本连贯性判定及其模型训练方法、电子设备及可读介质"
+    patent_no: "CN111428470B"
+    date: "2022-04-22"
+    china_patent: y
+  
+    
+  - title: "语言类型判别方法、装置、设备及存储介质"
+    patent_no: "CN111626067B"
+    date: "2022-04-19"
+    china_patent: y
+  
+    
+  - title: "数据处理方法、电子设备及计算机可读介质"
+    patent_no: "CN111832596B"
+    date: "2022-03-22"
+    china_patent: y
+  
+    
+  - title: "一种文本匹配方法、装置、设备及介质"
+    patent_no: "CN112632232B"
+    date: "2022-03-15"
+    china_patent: y
+  
+    
+  - title: "预训练模型的训练方法、编码特征获取方法及相关装置"
+    patent_no: "CN113257238B"
+    date: "2021-10-01"
+    china_patent: y
+  
+    
+  - title: "文本分类的方法、装置、设备和计算机可读存储介质"
+    patent_no: "CN112989051B"
+    date: "2021-09-10"
+    china_patent: y
+  
+    
+  - title: "识别对话中句子类别的方法、装置、电子设备和存储介质"
+    patent_no: "CN112989822B"
+    date: "2021-08-27"
+    china_patent: y
+  
+    
+  - title: "语音合成模型训练方法、语音合成方法及装置"
+    patent_no: "CN110288972B"
+    date: "2021-08-13"
+    china_patent: y
+  
+    
+  - title: "视频分类的方法、装置、电子设备和计算机存储介质"
+    patent_no: "CN112989117B"
+    date: "2021-08-13"
+    china_patent: y
+  
+    
+  - title: "语音信息检索方法、装置、设备和计算机可读存储介质"
+    patent_no: "CN111078937B"
+    date: "2021-08-10"
+    china_patent: y
+  
+    
+  - title: "一种视频片段的获取方法、装置及设备"
+    patent_no: "CN112804586B"
+    date: "2021-07-16"
+    china_patent: y
+  
+    
+  - title: "音频不流利事件的识别方法、装置、设备及可读存储介质"
+    patent_no: "CN112687296B"
+    date: "2021-06-29"
+    china_patent: y
+  
+    
+  - title: "视频处理方法及系统、图片处理方法及系统、设备、介质"
+    patent_no: "CN111275097B"
+    date: "2021-06-18"
+    china_patent: y
+  
+    
+  - title: "对象偏好预测的方法、装置和计算机可读介质"
+    patent_no: "CN109726331B"
+    date: "2021-05-18"
+    china_patent: y
+  
+    
+  - title: "学情信息获取方法、装置、设备和存储介质"
+    patent_no: "CN112331211B"
+    date: "2021-05-07"
+    china_patent: y
+  
+    
+  - title: "语音对齐方法、装置、电子设备及存储介质"
+    patent_no: "CN111276121B"
+    date: "2021-04-30"
+    china_patent: y
+  
+    
+  - title: "内容推荐方法、装置、电子设备及存储介质"
+    patent_no: "CN112364252B"
+    date: "2021-04-23"
+    china_patent: y
+  
+    
+  - title: "音频数据分类方法、训练方法及装置、介质、计算机设备"
+    patent_no: "CN112395456B"
+    date: "2021-04-13"
+    china_patent: y
+  
+    
+  - title: "文本纠错模型训练、文本纠错方法及相关装置"
+    patent_no: "CN112395864B"
+    date: "2021-04-06"
+    china_patent: y
+  
+    
+  - title: "置信度校正及其模型训练方法、装置、设备及存储介质"
+    patent_no: "CN111326148B"
+    date: "2021-02-23"
+    china_patent: y
+  
+    
+  - title: "文本识别方法、电子设备及计算机可读介质"
+    patent_no: "CN112036122B"
+    date: "2021-02-23"
+    china_patent: y
+  
+    
+  - title: "说话者角色确定方法、装置、设备及存储介质"
+    patent_no: "CN111341318B"
+    date: "2021-02-12"
+    china_patent: y
+  
+    
+  - title: "文本纠错的适配方法、装置、电子设备及存储介质"
+    patent_no: "CN112036162B"
+    date: "2021-02-12"
+    china_patent: y
+  
+    
+  - title: "拼音标注方法、装置、电子设备及存储介质"
+    patent_no: "CN112101025B"
+    date: "2021-02-02"
+    china_patent: y
+  
+    
+  - title: "会话切分方法、电子设备及计算机可读介质"
+    patent_no: "CN111970311B"
+    date: "2021-02-02"
+    china_patent: y
+  
+    
+  - title: "会话切分方法、装置、电子设备和存储介质"
+    patent_no: "CN111708866B"
+    date: "2020-12-11"
+    china_patent: y
+
+
+  - title: "2023年国际智慧教育竞赛The Quest for Quality Questions"
+    rank: "冠军"
+    venue: "The Learning Agency"
+    competition: y
+
+
+  - title: "2022年中国计算语言学大会(CCL)聊天机器人幽默感测评"
+    rank: "冠军"
+    venue: "CCL 2022"
+    competition: y
+
+
+  - title: "2022年国际计算机教育数据挖掘(CSEDM)学生成绩预测挑战赛"
+    rank: "冠军"
+    venue: "CSEDM@EDM 2022"
+    competition: y
+
+  - title: "2022年国际计算机教育数据挖掘(CSEDM)知识追踪挑战赛"
+    rank: "亚军"
+    venue: "CSEDM@EDM 2022"
+    competition: y
+
+
+  - title: "2021年中国计算语言学大会(CCL)图文多模态幽默识别评测"
+    rank: "亚军"
+    venue: "CCL 2021"
+    competition: y
+
+
+  - title: "2020年CCF-A类会议国际神经信息处理系统大会(NeurIPS)教育题目质量挑战赛"
+    rank: "冠军"
+    venue: "NeurIPS 2020"
+    competition: y
+
+
+  - title: "2020年CCF-A类会议国际神经信息处理系统大会(NeurIPS)教育挑战赛综合排名"
+    rank: "亚军"
+    venue: "NeurIPS 2020"
+    competition: y
+
+
+  - title: "2020年CCF-A类会议国际普适计算大会(Ubicomp)时间序列分类挑战赛"
+    rank: "冠军"
+    venue: "Ubicomp 2020"
+    competition: y
+
+
+  - title: "2020年CCF-B类会议国际自然语言处理经验方法会议(EMNLP)开放领域对话挑战赛"
+    rank: "亚军"
+    venue: "SCAI@EMNLP 2020"
+    competition: y
+
+
+  - title: "2020年中国计算语言学大会(CCL)幽默计算情景喜剧笑点识别评测"
+    rank: "冠军"
+    venue: "CCL 2020"
+    competition: y
+
+

@@ -1,69 +1,8 @@
-# Site settings
-title:       Jerry Zitao Liu
-email:       zitao.jerry.liu@gmail.com
-author:      Jerry Zitao Liu
-description: "Zitao Liu, zitao liu, zitao, jerry zitao liu, zitao jerry liu, zitao liu homepage, ztliu, zitaoliu, jerryliu, University of Pittsburgh, Wuhan University, homepage, 刘子韬, 刘子韬的个人主页"
-baseurl:     ""
-url:         "http://www.zitaoliu.com"
-date_format: "%b %-d, %Y"
-date_dir_format: "%Y/%m/%d"
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: ""
 
-# Google services
-google_analytics: yes
-google_verification:
-
-# Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    true
-ajaxify_contact_form: false
-
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname: zitao-homepage
-
-# Social icons
-github_username: zitaoliu
-bitbucket_username:
-stackoverflow_id:
-twitter_username: yourzi
-facebook_username: zitao.liu
-weibo_username: 338558444
-instagram_username: zitao.jerry.liu
-google_plus_id:
-linkedin_username: zitaoliu
-flickr_username: zitaoliu
-vimeo_username: zitao
-pinterest_username: zitaoliu
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
-
-# Post sharing icons
-show_sharing_icons: false
-share_text: 'Share this post!'
-# Change to 'true' to enable individual icons
-share_facebook: true
-share_twitter: true
-share_googleplus: true
-share_linkedin: true
-share_digg: false
-share_tumblr: true
-share_reddit: true
-share_stumbleupon: false
-share_hackernews: false
-share_pinterest: true
-
-# Build settings
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-relative_permalinks: false
-paginate:    12 
-paginate_path: "/blog/page:num/"
-sass:
-  compressed: true
+collections:
+  projects:
+    output: true

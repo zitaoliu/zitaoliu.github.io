@@ -1,0 +1,71 @@
+services:
+  - title: "International Symposium on Multimodal Reasoning - Techniques, Applications, and Challenges"
+    venue: "IJCAI 2023"
+    role: "Workshop Co-chair"
+    workshop: y 
+
+
+  - title: "International Workshop on Empowering Education with LLMs - the Next-Gen Interface and Content Generation"
+    venue: "AIED 2023"
+    role: "Workshop Co-chair"
+    workshop: y 
+
+
+  - title: "The 4th International Workshop on Artificial Intelligence for Education"
+    venue: "AAAI 2023"
+    role: "Workshop Co-chair (main contact)"
+    workshop: y 
+
+
+  - title: "The 3rd International Workshop on Artificial Intelligence for Education"
+    venue: "AAAI 2022"
+    role: "Workshop Co-chair (main contact)"
+    workshop: y 
+
+
+  - title: "The 2nd International Workshop on Artificial Intelligence for Education"
+    venue: "IJCAI 2021"
+    role: "Workshop Co-chair (main contact)"
+    workshop: y 
+
+
+  - title: "International Symposium on Artificial Intelligence for K-12 Education"
+    venue: "AAAI 2021 Spring Symposium"
+    role: "Workshop Co-chair (main contact)"
+    workshop: y 
+
+
+  - title: "The 1st International Workshop on Artificial Intelligence for Education"
+    venue: "AAAI 2020"
+    role: "Workshop Co-chair (main contact)"
+    workshop: y 
+
+
+  - title: "The 24th International Conference on Artificial Intelligence in Education (AIED 2023)"
+    role: "Industry and Innovation Track Co-chair"
+    conference: y 
+
+  - title: "The 23rd International Conference on Artificial Intelligence in Education (AIED 2022)"
+    role: "Industry and Innovation Track Co-chair"
+    conference: y 
+
+  - title: "The 15th ACM International Web Search and Data Mining Conference (WSDM 2022)"
+    role: "WSDM Cup Co-chair"
+    conference: y 
+
+  - title: "The 22nd International Conference on Artificial Intelligence in Education (AIED 2021)"
+    role: "Workshop Co-chair"
+    conference: y 
+
+
+  - title: "Tutorial on Recent Advances in Multimodal Educational Data Mining in K-12 Education"
+    venue: "KDD 2020"
+    role: "Co-organizer (main contact)"
+    tutorial: y 
+
+
+  - title: "Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges"
+    venue: "IJCAI 2020"
+    role: "Co-organizer (main contact)"
+    tutorial: y 
+

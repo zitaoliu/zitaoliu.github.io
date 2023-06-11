@@ -1,0 +1,475 @@
+papers:
+
+  - venue: "IJHCI 2023"
+    aied: y
+    authors: "J. Wang, B. Gao, H. Tu, H. Liang, <b>Z. Liu</b>, W. Luo, J. Weng"
+    title: "Secure and Memorable Authentication Using Dynamic Combinations of 3D Objects in Virtual Reality"
+    selected: n
+
+  - venue: "KDD 2023"
+    mldm: y
+    authors: "H. Xu, X. Liu, W. Wang, <b>Z. Liu</b>, A. Jain, J. Tang"
+    title: "How does the Memorization of Neural Networks Impact Adversarial Robust Models?"
+    selected: y
+    
+  - venue: "ICML 2023"
+    mldm: y
+    authors: "P. He, H. Xu, J. Ren, Y. Wan, <b>Z. Liu</b>, H. Liu, J. Tang"
+    title: "Probabilistic Categorical Adversarial Attack and Adversarial Training"
+    selected: y
+    
+  - venue: "AIED 2023"
+    aied: y
+    authors: "J. Yu, Z. Li, <b>Z. Liu</b>, M. Tian, Y. Lu"
+    title: "A Student-Teacher Multimodal Interaction Analysis System for Classroom Observation"
+    selected: n
+    
+  - venue: "EDM 2023"
+    aied: y
+    authors: "J. Yu, <b>Z. Liu</b>, M. Tian, Y. Lu"
+    title: "A Multimodal Language Learning System for Chinese Character Using Foundation Model"
+    selected: n
+    
+  - venue: "SIGIR 2023"
+    mldm: y
+    authors: "L. Liu, X. Zhao, C. Zhang, J. Gao, W. Wang, W. Fan, Y. Wang, M. He, <b>Z. Liu</b>, Q. Li"
+    title: "Linear Attention Mechanism for Long-term Sequential Recommender Systems"
+    selected: y
+    
+  - venue: "SIGIR 2023"
+    mldm: y
+    authors: "S. Huang, <b>Z. Liu</b>, X. Zhao, W. Luo, J. Weng"
+    title: "Towards Robust Knowledge Tracing Models via k-Sparse Attention"
+    selected: y
+    
+  - venue: "SIGIR 2023"
+    mldm: y
+    authors: "X. Gan, Y. Wang, X. Zhao, W. Wang, Y. Wang, <b>Z. Liu</b>"
+    title: "AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework"
+    selected: y
+    
+  - venue: "ITS 2023"
+    aied: y
+    authors: "Q. Liu, Y. Huang, <b>Z. Liu</b>, S. Huang, J. Chen, X. Zhao, G. Liu, Y. Zhou, W. Luo"
+    title: "SC-Ques: A Sentence Completion Question Dataset for English as a Second Language Learners"
+    selected: n
+    is_data: y
+    
+  - venue: "WWW 2023"
+    mldm: y
+    authors: "<b>Z. Liu</b>, Q. Liu, J. Chen, S. Huang, B. Gao, W. Luo, J. Weng"
+    title: "Enhancing Deep Knowledge Tracing with Auxiliary Tasks"
+    selected: y
+    
+  - venue: "WWW 2023"
+    mldm: y
+    authors: "X. Chen, W. Fan, J. Chen, H. Liu, <b>Z. Liu</b>, Q. Li, Z. Zhang"
+    title: "Fairly Adaptive Negative Sampling for Recommendations"
+    selected: y
+    
+  - venue: "WWW 2023"
+    mldm: y
+    authors: "J. Liang, X. Zhao, M. Li, Z. Zhang, H. Liu, <b>Z. Liu</b>"
+    title: "MMMLP: Multi-modal Multilayer Perceptron for Sequence Recommendation"
+    selected: y
+    
+  - venue: "ICLR 2023"
+    mldm: y
+    authors: "<b>Z. Liu</b>, Q. Liu, J. Chen, S. Huang, W. Luo"
+    title: "simpleKT: A Simple But Tough-to-Beat Baseline for Knowledge Tracing"
+    selected: y
+    
+  - venue: "DASFAA 2023"
+    mldm: y
+    authors: "T. Zhao, C Chai, J. Liu, G. Li, J. Feng, <b>Z. Liu</b>"
+    title: "A Topic-Aware Data Generation Framework for Math Word Problems"
+    selected: n
+    
+  - venue: "AAAI 2023"
+    mldm: y
+    authors: "J. Chen, <b>Z. Liu</b>, S. Huang, Q. Liu, W. Luo"
+    title: "Improving Interpretability of Deep Sequential Knowledge Tracing Models with Question-centric Cognitive Representations"
+    selected: y
+
+  - venue: "TPAMI 2022"
+    mldm: y
+    authors: "Y. Sun, Q. Fu, Y. Jiang, <b>Z. Liu</b>, Y. Lai, H. Fu, and L. Gao"
+    title: "Human Motion Transfer with 3D Constraints and Detail Enhancement"
+    selected: y
+
+  - venue: "NeurIPS 2022"
+    mldm: y
+    authors: "<b>Z. Liu</b>, Q. Liu, J. Chen, S. Huang, J. Tang, W. Luo"
+    title: "pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models"
+    selected: y
+    is_data: y
+    
+  - venue: "CIKM 2022"
+    mldm: y
+    authors: "J. Chen, S. Huang, <b>Z. Liu</b>, W. Luo"
+    title: "DialogID: A Dialogic Instruction Dataset for Improving Teaching Effectiveness in Online Environments"
+    selected: n
+    is_data: y
+
+  - venue: "KAIS 2022"
+    mldm: y
+    authors: "Y. Hao, W. Ding, <b>Z. Liu</b>"
+    title: "NeuCrowd: Neural Sampling Network for Representation Learning with Crowdsourced Labels"
+    selected: n
+
+  - venue: "TDS 2022"
+    aied: y
+    authors: "F. Xia, T. Guo, X. Bai, A. Shatte, <b>Z. Liu</b>, J. Tang"
+    title: "SUMMER: Bias-aware Prediction of Graduate Employment Based on Educational Big Data"
+    selected: n
+    
+  - venue: "AIED 2022"
+    aied: y
+    authors: "S. Huang, Q. Liu, J. Chen, X. Hu, <b>Z. Liu</b>, W. Luo"
+    title: "A Design of A Simple Yet Effective Exercise Recommendation System in K-12 Online Learning"
+    selected: n
+    
+  - venue: "AIED 2022"
+    aied: y
+    authors: "J. Chen, <b>Z. Liu</b>, W. Luo"
+    title: "Wide & Deep Learning for Judging Student Performance in Online One-on-one Math Classes"
+    selected: n
+    
+  - venue: "SDM 2022"
+    mldm: y
+    authors: "W. Wang, J. Thekinen, X. Liu, <b>Z. Liu</b>, J. Tang"
+    title: "Learning from Imbalanced Crowdsourced Labeled Data"
+    selected: n
+    
+  - venue: "NeurIPS 2021"
+    mldm: y
+    authors: "X. Liu, J. Ding, W. Jin, H. Xu, Y. Ma, <b>Z. Liu</b>, J. Tang"
+    title: "Graph Neural Networks with Adaptive Residual"
+    selected: y
+
+  - venue: "Neurocomputing 2021"
+    mldm: y
+    authors: "S. Fu, Z. Li, J. Xu, M. Cheng, <b>Z. Liu</b>, X. Yang"
+    title: "Interactive Knowledge Distillation for Image Classification"
+    selected: n
+
+  - venue: "IJCV 2021"
+    mldm: y
+    authors: "B. Li, Y. Gou, S. Gu, <b>Z. Liu</b>, J. Zhou, X. Peng"
+    title: "You Only Look Yourself: Unsupervised and Untrained Single Image Dehazing Neural Network"
+    selected: y
+
+  - venue: "EMNLP 2021"
+    mldm: y
+    authors: "H. Li, W. Ding, Y. Kang, T. Liu, Z. Wu, <b>Z. Liu</b>"
+    title: "CTAL: Pre-training Cross-modal Transformer for Audio-and-Language Representations"
+    selected: n
+    
+  - venue: "EMNLP 2021"
+    mldm: y
+    authors: "T. Liu, Q. Fang, W. Ding, H. Li, Z. Wu, <b>Z. Liu</b>"
+    title: "Mathematical Word Problem Generation from Commonsense Knowledge Graph and Equations"
+    selected: n
+    
+  - venue: "ECML-PKDD 2021"
+    mldm: y
+    authors: "G. Xu, W. Ding, W. Fu, Z. Wu, <b>Z. Liu</b>"
+    title: "Robust Learning for Text Classification with Multi-source Noise Simulation and Hard Example Mining"
+    selected: n
+    
+  - venue: "IS 2021"
+    mldm: y
+    authors: "H. Li, W. Ding, Z. Wu, <b>Z. Liu</b>"
+    title: "Learning Fine-Grained Cross Modality Excitement for Speech Emotion Recognition"
+    selected: n
+    
+  - venue: "ACL 2021"
+    mldm: y
+    authors: "J. Guan, X. Mao, C. Fan, <b>Z. Liu</b>, W. Ding, M. Huang"
+    title: "Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence"
+    selected: y
+    
+  - venue: "ACL 2021"
+    mldm: y
+    authors: "J. Guan, Z. Zhang, Z. Feng, <b>Z. Liu</b>, W. Ding, X. Mao, C. Fan, M. Huang"
+    title: "OpenMEVA: A Benchmark for Evaluating Open-ended Story Generation Metrics"
+    selected: y
+    
+  - venue: "ACL 2021"
+    mldm: y
+    authors: "H. Liu, W. Jin, H. Karimi, <b>Z. Liu</b>, J. Tang"
+    title: "The Authors Matter: Understanding and Mitigating Implicit Bias in Deep Text Classification"
+    selected: y
+
+  - venue: "AIED 2021"
+    aied: y
+    authors: "Y. Hao, H. Li, W. Ding, Z. Wu, J. Tang, R. Luckin, <b>Z. Liu</b>"
+    title: "Multi-Task Learning based Online Dialogic Instruction Detection with Pre-trained Language Models"
+    selected: n
+    
+  - venue: "AIED 2021"
+    aied: y
+    authors: "J. Chen, H. Li, W. Ding, <b>Z. Liu</b>"
+    title: "An Educational System for Personalized Teacher Recommendation in K-12 Online Classrooms"
+    selected: n
+    
+  - venue: "AIED 2021"
+    aied: y
+    authors: "Q. Liu, T. Liu, J. Zhao, Q. Fang, W. Ding, Z. Wu, F. Xia, J. Tang, <b>Z. Liu</b>"
+    title: "Solving ESL Sentence Completion Questions via Pre-trained Neural Language Models"
+    selected: n
+    
+  - venue: "AIED 2021"
+    aied: y
+    authors: "S. Xu, G. Xu, P. Jia, W. Ding, Z. Wu, <b>Z. Liu</b>"
+    title: "Automatic Task Requirements Writing Evaluation via Machine Reading Comprehension"
+    selected: n
+    
+  - venue: "AIED 2021"
+    aied: y
+    authors: "H. Li, Y. Kang, Y. Hao, W. Ding, Z. Wu, <b>Z. Liu</b>"
+    title: "A Multimodal Machine Learning Framework for Teacher Vocal Delivery Evaluation"
+    selected: n
+    
+  - venue: "CVPR 2021"
+    mldm: y
+    authors: "M. Yang, Y. Li, Z. Huang, <b>Z. Liu</b>, P. Hu, X. Peng"
+    title: "Partially View-aligned Representation Learning with Noise-robust Contrastive Loss"
+    selected: y
+    
+  - venue: "CVPR 2021"
+    mldm: y
+    authors: "Y. Lin, Y. Gou, <b>Z. Liu</b>, B. Li, J. Lv, X. Peng"
+    title: "COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction"
+    selected: y
+    
+  - venue: "ICDE 2021"
+    mldm: y
+    authors: "K. Li, G. Li, Y. Wang, Y. Huang, <b>Z. Liu</b>, and Z. Wu"
+    title: "CrowdRL: An End-to-End Reinforcement Learning Framework for Data Labelling"
+    selected: y
+    
+  - venue: "AAAI 2021"
+    mldm: y
+    authors: "Y. Li, P. Hu, <b>Z. Liu</b>, D. Peng, T. Zhou, X. Peng"
+    title: "Contrastive Clustering"
+    selected: y
+    
+  - venue: "WSDM 2021"
+    mldm: y
+    authors: "W. Jin, T. Derr, Y. Wang, Y. Ma, <b>Z. Liu</b>, J. Tang"
+    title: "Node Similarity Preserving Graph Convolutional Networks"
+    selected: n
+    
+
+  - venue: "TKDE 2020"
+    mldm: y
+    authors: "W. Wang, G. Xu, W. Ding, G. Huang, G. Li, J. Tang, <b>Z. Liu</b>"
+    title: "Representation Learning from Limited Educational Data with Crowdsourced Labels"
+    selected: y
+    
+
+  - venue: "TIP 2020"
+    mldm: y
+    authors: "B. Li, Y. Gou, <b>Z. Liu</b>, H. Zhu, J. Zhou, X. Peng"
+    title: "Zero-Shot Image Dehazing"
+    selected: y
+
+
+  - venue: "COLING 2020"
+    mldm: y
+    authors: "H. Liu, <b>Z. Liu</b>, Z. Wu and J. Tang"
+    title: "Personalized Multimodal Feedback Generation in Education"
+    selected: n
+    
+  - venue: "COLING 2020"
+    mldm: y
+    authors: "H. Liu, J. Dacon, W. Fan, H. Liu, <b>Z. Liu</b>, J. Tang"
+    title: "Does Gender Matter? Towards Fairness in Dialogue Systems"
+    selected: n
+    
+    
+  - venue: "EMNLP 2020"
+    mldm: y
+    authors: "H. Liu, W. Wang, Y. Wang, H. Liu, <b>Z. Liu</b> and J. Tang"
+    title: "Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning"
+    selected: n
+
+    
+  - venue: "NeurIPS 2020"
+    mldm: y
+    authors: "Y. Gou, B. Li, <b>Z. Liu</b>, S. Yang, and X. Peng"
+    title: "CLEARER: Multi-Scale Neural Architecture Search for Image Restoration"
+    selected: y
+
+    
+  - venue: "ICDM 2020"
+    mldm: y
+    authors: "W. Wang, T. Derr, Y. Ma, S. Wang, H. Liu, <b>Z. Liu</b>, J. Tang"
+    title: "Learning from Incomplete Labeled Data via Adversarial Data Generation"
+    selected: n
+
+    
+  - venue: "EDM 2020"
+    aied: y
+    authors: "H. Li, W. Ding, <b>Z. Liu</b>"
+    title: "Identifying At-Risk K-12 Students in Multimodal Online Environments: A Machine Learning Approach"
+    selected: n
+    
+  - venue: "AIED 2020"
+    aied: y
+    authors: "S. Xu, W. Ding, <b>Z. Liu</b>"
+    title: "Automatic Dialogic Instruction Detection for K-12 Online One-on-one Classes"
+    selected: n
+    
+  - venue: "AIED 2020"
+    aied: y
+    authors: "H. Li, Z. Wang, J. Tang, W. Ding, <b>Z. Liu</b>"
+    title: "Siamese Neural Networks for Class Activity Detection"
+    selected: n
+    
+  - venue: "AIED 2020"
+    aied: y
+    authors: "G. Huang, J. Chen, H. Liu, W. Fu, W. Ding, J. Tang, S. Yang, G. Li, <b>Z. Liu</b>"
+    title: "Neural Multi-Task Learning for Automatic Detection of Teacher Questions in Online Classrooms"
+    selected: n
+    
+  - venue: "ICASSP 2020"
+    mldm: y
+    authors: "H. Li, Y. Kang, W. Ding, S. Yang, S. Yang, Y. Huang, <b>Z. Liu</b>"
+    title: "Multimodal Learning For Classroom Activity Detection"
+    selected: n
+    
+  - venue: "ICASSP 2020"
+    mldm: y
+    authors: "Y. Song, Z. Ou, <b>Z. Liu</b>, S. Yang"
+    title: "Upgrading CRFs to JRFs And Its Benefits To Sequence Modeling And Labeling"
+    selected: n
+    
+  - venue: "WWW 2020"
+    mldm: y
+    authors: "W. Ding, G. Xu, T. Liu, W. Fu, Y. Song, C. Guo, C. Kong, S. Yang, Y. Huang, <b>Z. Liu</b>"
+    title: "Dolphin: A Spoken Language Proficiency Assessment System for Elementary Education"
+    selected: y
+    
+  - venue: "SDM 2020"
+    mldm: y
+    authors: "W. Wang, S. Wang, W. Fan, <b>Z. Liu</b>, J. Tang"
+    title: "Global-and-Local Aware Data Generation for the Class Imbalance Problem"
+    selected: n
+    
+  - venue: "AAAI 2020"
+    mldm: y
+    authors: "Z . Wang, H. Liu, J. Tang, S. Yang, G. Huang, <b>Z. Liu</b>"
+    title: "Learning Multi-level Dependencies for Robust Word Recognition"
+    selected: y
+    
+  - venue: "AAAI 2020"
+    mldm: y
+    authors: "T. Guo, F. Xia, S. Zhen, X. Bai, D. Zhang, <b>Z. Liu</b>, J. Tang"
+    title: "Graduate Employment Prediction with Bias"
+    selected: y
+    
+  - venue: "AIED 2019"
+    aied: y
+    authors: "J. Chen, H. Li, W. Wang, W. Ding, G. Huang, <b>Z. Liu</b>"
+    title: "A Multimodal Alerting System for Online Class Quality Assurance"
+    selected: n
+    
+  - venue: "AIED 2019"
+    aied: y
+    authors: "Z. Wang, X. Feng, J. Tang, G. Huang, <b>Z. Liu</b>"
+    title: "Deep Knowledge Tracing with Side Information"
+    selected: n
+    
+  - venue: "AIED 2019"
+    aied: y
+    authors: "T. Liu, W. Ding, Z. Wang, J. Tang, G. Huang, <b>Z. Liu</b>"
+    title: "Automatic Short Answer Grading via Multiway Attention Networks"
+    selected: n
+    
+  - venue: "WWW 2019"
+    mldm: y
+    authors: "T. Liu, Z. Wang, J. Tang, S. Yang, <b>Z. Liu</b>"
+    title: "Recommender Systems with Heterogeneous Side Information"
+    selected: y
+    
+  - venue: "ICDE 2019"
+    mldm: y
+    authors: "G. Xu, W. Ding, S. Yang, <b>Z. Liu</b>"
+    title: "Learning Effective Embeddings From Crowdsourced Labels: An Educational Case Study"
+    selected: y
+    
+  - venue: "Ubicomp 2019"
+    mldm: y
+    authors: "J. Fan, X. Fan, F. Tian, Y. Li, <b>Z. Liu</b>, W. Sun, and H. Wang"
+    title: "What is That in Your Hand? Recognizing Grasped Objects via Forearm Electromyography Sensing"
+    selected: y
+    
+  - venue: "ECML-PKDD 2018"
+    mldm: y
+    authors: "Y. Yan, <b>Z. Liu</b>, M. Zhao, W. Tao, P. Yan, and Y. Bao"
+    title: "A Practical Deep Online Ranking System in E-commerce Recommendation"
+    selected: n
+    
+  - venue: "SIGIR 2018"
+    mldm: y
+    authors: "<b>Z. Liu</b>, Y. Yan, M. Hauskrecht"
+    title: "A Flexible Forecasting Framework for Hierarchical Time Series with Seasonal Patterns: A Case Study of Web Traffic"
+    selected: y
+    
+  - venue: "WWW 2018"
+    mldm: y
+    authors: "C. Eksombatchai, P. Jindal, <b>Z. Liu</b>, Y. Liu, R. Sharma, C. Sugnet, M. Ulrich, J. Leskovec"
+    title: "Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time"
+    selected: y
+    
+  - venue: "CIKM 2017"
+    mldm: y
+    authors: "<b>Z. Liu</b> and M. Hauskrecht"
+    title: "A Personalized Predictive Framework for Multivariate Clinical Time Series via Adaptive Model Selection"
+    selected: n
+    
+  - venue: "NAACL 2016"
+    mldm: y
+    authors: "W. Luo, F. Liu, <b>Z. Liu</b> and D. Litman"
+    title: "Automatic Summarization of Student Course Feedback"
+    selected: n
+    
+  - venue: "SDM 2016"
+    mldm: y
+    authors: "<b>Z. Liu</b> and M. Hauskrecht"
+    title: "Learning Linear Dynamical Systems from Multivariate Time Series: A Matrix Factorization Based Framework"
+    selected: n
+    
+  - venue: "AAAI 2016"
+    mldm: y
+    authors: "<b>Z. Liu</b> and M. Hauskrecht"
+    title: "Learning Adaptive Forecasting Models from Irregularly Sampled Multivariate Clinical Data"
+    selected: y
+    
+  - venue: "ICDM 2015"
+    mldm: y
+    authors: "<b>Z. Liu</b>, Y. Yan, J. Yang and and M. Hauskrecht"
+    title: "Missing Value Estimation for Hierarchical Time Series: A Study of Hierarchical Web Traffic"
+    selected: n
+    
+  - venue: "AAAI 2015"
+    mldm: y
+    authors: "<b>Z. Liu</b> and M. Hauskrecht"
+    title: "A Regularized Linear Dynamical System Framework for Multivariate Time Series Analysis"
+    selected: y
+    
+  - venue: "SDM 2014"
+    mldm: y
+    authors: "M. Pakdaman, I. Batal, <b>Z. Liu</b>, C. Hong and M. Hauskrecht"
+    title: "An Optimization-based Framework to Learn Conditional Random Fields for Multi-label Classification"
+    selected: n
+    
+  - venue: "SDM 2013"
+    mldm: y
+    authors: "<b>Z. Liu</b>, L. Wu and M. Hauskrecht"
+    title: "Modeling Clinical Time Series Using Gaussian Process Sequences"
+    selected: n
+    
+
