@@ -24,6 +24,29 @@ achievements:
     venue: "深圳市8K超高清视频产业协作联盟"
     standard: y
 
+  - title: "教育通用人工智能大模型 - 第1部分:总体框架"
+    subtitle: "Artificial general intelligence model for education — Part 1: General framework"
+    standard_no: "T/SAIA 0013.1—2023"
+    venue: "上海市人工智能行业协会团体标准"
+    standard: y
+
+  - title: "教育通用人工智能大模型 - 第2部分:信息模型"
+    subtitle: "Artificial general intelligence model for education — Part 2: Information model"
+    standard_no: "T/SAIA 0013.2—2023"
+    venue: "上海市人工智能行业协会团体标准"
+    standard: y
+
+  - title: "教育通用人工智能大模型 - 第3部分:数据规范"
+    subtitle: "Artificial general intelligence model for education — Part 3: Data specification"
+    standard_no: "T/SAIA 0013.3—2023"
+    venue: "上海市人工智能行业协会团体标准"
+    standard: y
+
+  - title: "教育通用人工智能大模型 - 第4部分:测评规范"
+    subtitle: "Artificial general intelligence model for education — Part 4: Evaluation specification"
+    standard_no: "T/SAIA 0013.1—2023"
+    venue: "上海市人工智能行业协会团体标准"
+    standard: y
 
   - title: "Sentence type recognition method and apparatus, electronic device, and storage medium"
     patent_no: "Pub. No.: US 2023/0134101 A1"
