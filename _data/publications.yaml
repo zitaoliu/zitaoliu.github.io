@@ -1,5 +1,29 @@
 papers:
 
+  - venue: "CIKM 2023"
+    mldm: y
+    authors: "Z. Zhang, X. Zhao, Q. Liu, C. Zhang, Q. Ma, W. Wang, H. Zhao, Y. Wang, <b>Z. Liu</b>"
+    title: "Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction"
+    selected: n
+    
+  - venue: "CIKM 2023"
+    mldm: y
+    authors: "J. Chen, <b>Z. Liu</b>, S. Huang, Y. Huang, X. Zhao, B. Gao, W. Luo"
+    title: "Accessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue"
+    selected: n
+
+  - venue: "CIKM 2023"
+    mldm: y
+    authors: "Q. Ma, Z. Zhang, X. Zhao, H. Li, H. Zhao, Y. Wang, <b>Z. Liu</b>, W. Wang"
+    title: "Hierarchical Information Enhanced Traffic Forecasting"
+    selected: n
+
+  - venue: "CIKM 2023"
+    mldm: y
+    authors: "Z. Zhang, Z. Huang, Z. Hu, X. Zhao, W. Wang, <b>Z. Liu</b>, J. Zhang, S. Qin, H. Zhao"
+    title: "MLPST: MLP is All You Need for Spatio-Temporal Prediction"
+    selected: n
+
   - venue: "IJHCI 2023"
     aied: y
     authors: "J. Wang, B. Gao, H. Tu, H. Liang, <b>Z. Liu</b>, W. Luo, J. Weng"
