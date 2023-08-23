@@ -9,7 +9,7 @@ papers:
   - venue: "CIKM 2023"
     mldm: y
     authors: "J. Chen, <b>Z. Liu</b>, S. Huang, Y. Huang, X. Zhao, B. Gao, W. Luo"
-    title: "Accessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue"
+    title: "Assessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue"
     selected: n
 
   - venue: "CIKM 2023"
