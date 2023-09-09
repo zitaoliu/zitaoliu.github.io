@@ -15,7 +15,7 @@ papers:
   - venue: "CIKM 2023"
     mldm: y
     authors: "Q. Ma, Z. Zhang, X. Zhao, H. Li, H. Zhao, Y. Wang, <b>Z. Liu</b>, W. Wang"
-    title: "Hierarchical Information Enhanced Traffic Forecasting"
+    title: "Rethinking Sensors Modeling: Hierarchical Information Enhanced Traffic Forecasting"
     selected: n
 
   - venue: "CIKM 2023"
