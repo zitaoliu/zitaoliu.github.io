@@ -3,7 +3,7 @@ papers:
   - venue: "CIKM 2023"
     mldm: y
     authors: "Z. Zhang, X. Zhao, Q. Liu, C. Zhang, Q. Ma, W. Wang, H. Zhao, Y. Wang, <b>Z. Liu</b>"
-    title: "Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction"
+    title: "PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction"
     selected: n
     
   - venue: "CIKM 2023"
