@@ -1,4 +1,11 @@
 services:
+
+  - title: "The 5th International Workshop on Artificial Intelligence for Education"
+    venue: "AAAI 2024"
+    role: "Workshop Co-chair (main contact)"
+    workshop: y 
+
+
   - title: "International Symposium on Multimodal Reasoning - Techniques, Applications, and Challenges"
     venue: "IJCAI 2023"
     role: "Workshop Co-chair"
@@ -40,6 +47,9 @@ services:
     role: "Workshop Co-chair (main contact)"
     workshop: y 
 
+  - title: "The 25th International Conference on Artificial Intelligence in Education (AIED 2024)"
+    role: "Program Co-chair"
+    conference: y 
 
   - title: "The 24th International Conference on Artificial Intelligence in Education (AIED 2023)"
     role: "Industry and Innovation Track Co-chair"
