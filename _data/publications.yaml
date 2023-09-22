@@ -1,5 +1,11 @@
 papers:
 
+  - venue: "NeurIPS 2023"
+    mldm: y
+    authors: "<b>Z. Liu</b>, Q. Liu, T. Guo, J. Chen, S. Huang, X. Zhao, J. Tang, W. Luo, J. Weng"
+    title: "XES3G5M: A Knowledge Tracing Benchmark Dataset with Auxiliary Information"
+    selected: y
+
   - venue: "CIKM 2023"
     mldm: y
     authors: "Z. Zhang, X. Zhao, Q. Liu, C. Zhang, Q. Ma, W. Wang, H. Zhao, Y. Wang, <b>Z. Liu</b>"
