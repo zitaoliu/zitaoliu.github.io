@@ -51,6 +51,10 @@ services:
     role: "Program Co-chair"
     conference: y 
 
+  - title: "The 28th Global Chinese Conference on Computers in Education (GCCCE 2024)"
+    role: "Workshop Co-chair"
+    conference: y 
+
   - title: "The 24th International Conference on Artificial Intelligence in Education (AIED 2023)"
     role: "Industry and Innovation Track Co-chair"
     conference: y 
