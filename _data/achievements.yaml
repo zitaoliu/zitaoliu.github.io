@@ -49,39 +49,36 @@ achievements:
     standard: y
 
   - title: "Sentence type recognition method and apparatus, electronic device, and storage medium"
-    patent_no: "Patent No.: US11,775,769B2"
+    patent_no: "Patent No.: US11775769B2"
     date: "Date of Patent: Oct 03, 2023"
     us_patent: y
 
 
   - title: "Speaker recognition method, electronic device, and storage medium"
-    patent_no: "Pub. No.: US 2023/0130253 A1"
-    date: "Pub. Date: Apr. 27, 2023"
+    patent_no: "Patent No.: US11676609B2"
+    date: "Date of Patent: Jun. 13, 2023"
+    us_patent: y
+
+  - title: "Data reduction for node graph creation"
+    patent_no: "Patent No.: US11256747B1"
+    date: "Date of Patent: Feb. 22, 2022"
+    us_patent: y
+
+  - title: "Method and apparatus for object preference prediction, and computer readable medium"
+    patent_no: "Patent No.: US11651255B2"
+    date: "Date of Patent: May 16, 2023"
     us_patent: y
 
   - title: "Data processing method, electronic device and computer-readable medium"
-    patent_no: "Pub.No.:US202/0358362A1"
+    patent_no: "Pub.No.:US20220358362A1"
     date: "Pub.Date: Nov. 10, 2022"
     us_patent: y
 
 
   - title: "Method for determining teaching style, and computer storage medium"
-    patent_no: "Pub.No.:US202/027016A1"
+    patent_no: "US20220270016A1"
     date: "Pub.Date: Aug. 25, 2022"
     us_patent: y
-
-
-  - title: "Data reduction for node graph creation"
-    patent_no: "Patent No.: US11,256,747B1"
-    date: "Date of Patent: Feb. 22, 2022"
-    us_patent: y
-
-
-  - title: "Method and apparatus for object preference prediction, and computer readable medium"
-    patent_no: "Patent No.: US11,651,255B2"
-    date: "Date of Patent: May 16, 2023"
-    us_patent: y
-
 
   - title: "教师风格预测模型的训练方法及计算机存储介质"
     patent_no: "CN111832787B"
