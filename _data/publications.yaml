@@ -1,5 +1,17 @@
 papers:
 
+  - venue: "CHI 2024"
+    aied: y
+    authors: "X. Tan, Z. He, C. Liu, M. Fan, T. Luo, <b>Z. Liu</b>, M. Tian, T. Han, F. Tian"
+    title: "WieldingCanvas: Interactive Sketch Canvases for Freehand Drawing in VR"
+    selected: y
+
+  - venue: "TVCG 2024"
+    aied: y
+    authors: "B. Gao , T. Shao, H. Tu, Q. Ma, <b>Z. Liu</b>, T. Han"
+    title: "Exploring Bimanual Haptic Feedback for Spatial Search in Virtual Reality"
+    selected: y
+
   - venue: "NeurIPS 2023"
     mldm: y
     authors: "<b>Z. Liu</b>, Q. Liu, T. Guo, J. Chen, S. Huang, X. Zhao, J. Tang, W. Luo, J. Weng"
