@@ -1,5 +1,35 @@
 papers:
 
+  - venue: "ECAI 2024"
+    mldm: y
+    authors: "X. Li, Y. Bai, T. Guo, Y. Zheng, M. Hou, B. Zhan, Y. Huang, <b>Z. Liu</b>, B. Gao, W. Luo"
+    title: "Extending Context Window of Attention based Knowledge Tracing Models via Length Extrapolation"
+    selected: n
+
+  - venue: "TKDD 2024"
+    mldm: y
+    authors: "H. Zhang, <b>Z. Liu</b>, C. Shang, D. Li, Y. Jiang"
+    title: "A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models"
+    selected: n
+
+  - venue: "IJCAI 2024"
+    mldm: y
+    authors: "X. Li, Y. Bai, T. Guo, <b>Z. Liu</b>, Y. Huang, X. Zhao, F. Xia, W. Luo, J. Weng"
+    title: "Enhancing Length Generalization for Attention based Knowledge Tracing Models with Linear Biases"
+    selected: y
+
+  - venue: "AIED 2024"
+    aied: y
+    authors: "Y. Zheng, X. Li, Y. Huang, Q. Liang, T. Guo, M. Hou, B. Gao, M. Tian, <b>Z. Liu</b>, W. Luo"
+    title: "Automatic Lesson Plan Generation via Large Language Models with Self-Critique Prompting"
+    selected: n
+
+  - venue: "AIED 2024"
+    aied: y
+    authors: "B. Zhan, T. Guo, X. Li, M. Hou, Q. Liang, B. Gao, W. Luo, <b>Z. Liu</b>"
+    title: "Knowledge Tracing as Language Processing: A Large-scale Autoregressive Paradigm"
+    selected: n
+
   - venue: "CHI 2024"
     aied: y
     authors: "X. Tan, Z. He, C. Liu, M. Fan, T. Luo, <b>Z. Liu</b>, M. Tian, T. Han, F. Tian"
