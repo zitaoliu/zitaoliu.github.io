@@ -1,5 +1,11 @@
 services:
 
+  - title: "International Workshop on Artificial Intelligence for Education"
+    venue: "KDD 2024"
+    role: "Workshop Co-chair"
+    workshop: y 
+
+
   - title: "The 5th International Workshop on Artificial Intelligence for Education"
     venue: "AAAI 2024"
     role: "Workshop Co-chair (main contact)"
