@@ -1,5 +1,8 @@
 news:
 
+  - title: "One paper was accepted by ACM Computing Survey'2025."
+    date: "04/2025" 
+
   - title: "One paper was accepted by SIGIR'2025."
     date: "04/2025" 
 
@@ -12,11 +15,17 @@ news:
   - title: "One paper was accepted by TKDE'2025."
     date: "03/2025" 
 
+  - title: "Two national standards were released by National Standardization Administration."
+    date: "02/2025"
+
   - title: "Invited to serve as a Senior PC member of AIED'2025."
     date: "02/2025"
 
   - title: "One paper was published by Machine Learning Journal."
     date: "02/2025"
+
+  - title: "One national standard was released by National Standardization Administration."
+    date: "01/2025"
 
   - title: "One paper was accepted by ICLR'2025."
     date: "01/2025"
