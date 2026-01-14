@@ -1,79 +1,85 @@
 news:
 
-  - title: "Two papers were accepted by AAAI'2026."
-    date: "11/2025" 
+  - title: "Two papers were accepted by WWW'2026."
+    date: "01/2026" 
 
-  - title: "One national standard was released by National Standardization Administration."
-    date: "10/2025"
+  - title: "Invited to serve as a Senior PC member of AIED'2026."
+    date: "01/2026"
 
-  - title: "One paper was accepted by NeurIPS'2025."
-    date: "09/2025" 
+  # - title: "Two papers were accepted by AAAI'2026."
+  #   date: "11/2025" 
 
-  - title: "One paper was accepted by Nature Humanities and Social Sciences Communications'2025."
-    date: "09/2025" 
+  # - title: "One national standard was released by National Standardization Administration."
+  #   date: "10/2025"
 
-  - title: "Two patents was granted by China National Intellectual Property Administration."
-    date: "09/2025" 
+  # - title: "One paper was accepted by NeurIPS'2025."
+  #   date: "09/2025" 
 
-  - title: "Invited to serve as a Senior PC member of WWW'2026."
-    date: "09/2025"
+  # - title: "One paper was accepted by Nature Humanities and Social Sciences Communications'2025."
+  #   date: "09/2025" 
 
-  - title: "Our AI4EDU workshop accepted by AAAI'2026."
-    date: "08/2025" 
+  # - title: "Two patents was granted by China National Intellectual Property Administration."
+  #   date: "09/2025" 
 
-  - title: "One paper was accepted by Neurocomputing'2025."
-    date: "08/2025" 
+  # - title: "Invited to serve as a Senior PC member of WWW'2026."
+  #   date: "09/2025"
 
-  - title: "One paper was accepted by EMNLP Findings'2025."
-    date: "08/2025" 
+  # - title: "Our AI4EDU workshop accepted by AAAI'2026."
+  #   date: "08/2025" 
 
-  - title: "One paper was accepted by Information Fusion'2025."
-    date: "07/2025" 
+  # - title: "One paper was accepted by Neurocomputing'2025."
+  #   date: "08/2025" 
 
-  - title: "One standard of Educational LLM Evaluation was released by China Electronics Standardization Association."
-    date: "07/2025"
+  # - title: "One paper was accepted by EMNLP Findings'2025."
+  #   date: "08/2025" 
 
-  - title: "Invited to serve as a Senior PC member of AAAI'2026."
-    date: "05/2025"
+  # - title: "One paper was accepted by Information Fusion'2025."
+  #   date: "07/2025" 
 
-  - title: "One paper was accepted by ACM Computing Survey'2025."
-    date: "04/2025" 
+  # - title: "One standard of Educational LLM Evaluation was released by China Electronics Standardization Association."
+  #   date: "07/2025"
 
-  - title: "One paper was accepted by IJCAI'2025."
-    date: "04/2025" 
+  # - title: "Invited to serve as a Senior PC member of AAAI'2026."
+  #   date: "05/2025"
 
-  - title: "One paper was accepted by SIGIR'2025."
-    date: "04/2025" 
+  # - title: "One paper was accepted by ACM Computing Survey'2025."
+  #   date: "04/2025" 
 
-  - title: "One paper was accepted by AIED'2025."
-    date: "04/2025" 
+  # - title: "One paper was accepted by IJCAI'2025."
+  #   date: "04/2025" 
 
-  - title: "Invited to serve as a Senior PC member of CIKM'2025."
-    date: "03/2025"
+  # - title: "One paper was accepted by SIGIR'2025."
+  #   date: "04/2025" 
 
-  - title: "One paper was accepted by TKDE'2025."
-    date: "03/2025" 
+  # - title: "One paper was accepted by AIED'2025."
+  #   date: "04/2025" 
 
-  - title: "Two national standards were released by National Standardization Administration."
-    date: "02/2025"
+  # - title: "Invited to serve as a Senior PC member of CIKM'2025."
+  #   date: "03/2025"
 
-  - title: "Invited to serve as a Senior PC member of AIED'2025."
-    date: "02/2025"
+  # - title: "One paper was accepted by TKDE'2025."
+  #   date: "03/2025" 
 
-  - title: "One paper was published by Machine Learning Journal."
-    date: "02/2025"
+  # - title: "Two national standards were released by National Standardization Administration."
+  #   date: "02/2025"
 
-  - title: "One national standard was released by National Standardization Administration."
-    date: "01/2025"
+  # - title: "Invited to serve as a Senior PC member of AIED'2025."
+  #   date: "02/2025"
 
-  - title: "One paper was accepted by ICLR'2025."
-    date: "01/2025"
+  # - title: "One paper was published by Machine Learning Journal."
+  #   date: "02/2025"
 
-  - title: "Three papers were accepted by WWW'2025."
-    date: "01/2025"
+  # - title: "One national standard was released by National Standardization Administration."
+  #   date: "01/2025"
 
-  - title: "One paper was published by Machine Learning Journal."
-    date: "01/2025"
+  # - title: "One paper was accepted by ICLR'2025."
+  #   date: "01/2025"
+
+  # - title: "Three papers were accepted by WWW'2025."
+  #   date: "01/2025"
+
+  # - title: "One paper was published by Machine Learning Journal."
+  #   date: "01/2025"
 
   # - title: "One standard of Ethical AI was released by China Technology Market Association."
   #   date: "12/2024"
