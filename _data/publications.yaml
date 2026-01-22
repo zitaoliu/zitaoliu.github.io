@@ -1,115 +1,163 @@
 papers:
 
-  - venue: "CSUR'2025"
+  - venue: "Information Fusion 2026"
+    mldm: y
+    authors: "S. Huang, <b>Z. Liu</b>, Q. Liu, J. Chen, Y. Huang"
+    title: "Dual-attentional time-aware fusion networks for knowledge tracing"
+    selected: y
+
+  - venue: "WWW 2026"
+    mldm: y
+    authors: "Y. Bai, M. Hou, T. Guo, <b>Z. Liu</b>, W. Luo"
+    title: "A Frequency-Aware Mixture of Heterogeneous Experts Framework for Knowledge Tracing"
+    selected: y
+
+  - venue: "WWW 2026"
+    mldm: y
+    authors: "X. Zeng, Y. Zheng, S. Huang, <b>Z. Liu</b>, M. Tian, M. Hou, J. Zheng, W. Dou"
+    title: "COMA: A Collaborative Multi-Role Agent Framework for Automated Lesson Plan Generation"
+    selected: y
+
+  - venue: "AAAI 2026"
+    mldm: y
+    authors: "S. Huang, Y. Zheng, X. Zeng, <b>Z. Liu</b>"
+    title: "A Compress-Expand Framework for Automatic Lesson Plan Generation"
+    selected: y
+
+  - venue: "AAAI 2026"
+    mldm: y
+    authors: "L. Chen, T. Cheng, B. Gao, <b>Z. Liu</b>, W. Luo"
+    title: "Learning from Scoring Disagreements: Contrastive Error Mining for Efficient and Robust LLM-based Assessment"
+    selected: y
+
+  - venue: "TASLP 2025"
+    mldm: y
+    authors: "X. Li, Z. Zhou, <b>Z. Liu</b>, Y. Wu,  W. Luo"
+    title: "A Synergistic Multi-Agent Framework for Camouflage Attack on Large Language Models"
+    selected: y
+
+  - venue: "HSSC 2025"
+    aied: y
+    authors: "Y. Zheng, S. Huang, X. Zeng, Y. Huang, <b>Z. Liu</b>, W. Luo"
+    title: "Knowledge-enhanced large language models for automatic lesson plan generation"
+    selected: n
+
+  - venue: "Neurocomputing 2025"
+    mldm: y
+    authors: "Y. Bai, X. Li, <b>Z. Liu</b>, Y. Huang, T. Guo, M. Hou, W. Luo"
+    title: "Learning multi-granularity temporal characteristics for attention based knowledge tracing"
+    selected: n
+
+  - venue: "CSUR 2025"
     mldm: y
     authors: "Y. Bai, <b>Z. Liu</b>, T. Guo, M. Hou, K. Xiao"
     title: "Prerequisite Relation Learning: A Survey and Outlook"
     selected: y
 
-  - venue: "TKDE'2025"
+  - venue: "TKDE 2025"
     mldm: y
     authors: "<b>Z. Liu</b>, T. Guo, Q. Liang, M. Hou, B. Zhan, J. Tang, W. Luo, J. Weng"
     title: "Deep Learning Based Knowledge Tracing: A Review, A Tool and Empirical Studies"
     selected: y
 
-  - venue: "IJCAI'2025"
+  - venue: "IJCAI 2025"
     mldm: y
     authors: "J. Deng, Y. Bai, M. Hou, T. Guo, <b>Z. Liu</b>, W. Luo"
     title: "Denoised Attention and Question-Augmented Representations for Knowledge Tracing"
     selected: y
 
-  - venue: "AIED'2025"
+  - venue: "AIED 2025"
     aied: y
     authors: "Z. Huang, <b>Z. Liu</b>"
     title: "HCGKT: Hierarchical Contrastive Graph Knowledge Tracing with Multi-level Feature Learning"
     selected: n
 
-  - venue: "SIGIR'2025"
+  - venue: "SIGIR 2025"
     mldm: y
     authors: "M. Wang, S. Zhang, R. Guo, W. Wang, X. Wei, <b>Z. Liu</b>, H. Yin, Y. Chang, X. Zhao"
     title: "STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation"
     selected: y
 
-  - venue: "ICLR'2025"
+  - venue: "ICLR 2025"
     mldm: y
     authors: "Z. Chen, T. Liu, M. Tian, Q. Tong, W. Luo, <b>Z. Liu</b>"
     title: "Advancing Mathematical Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages"
     selected: y
 
-  - venue: "WWW'2025"
+  - venue: "WWW 2025"
     mldm: y
     authors: "T. Guo, Y. Qin, Y. Xia, M. Hou, <b>Z. Liu</b>, F. Xia, W. Luo"
     title: "Enhancing Knowledge Tracing through Decoupling Cognitive Pattern from Error-Prone Data"
     selected: y
 
-  - venue: "WWW'2025"
+  - venue: "WWW 2025"
     mldm: y
     authors: "Y. Wang, C. Zhang, X. Zhao, Q. Liu, M. Wang, X. Wei, <b>Z. Liu</b>, X. Shi, X. Yang, L. Zhong, W. Lin"
     title: "Behavior Modeling Space Reconstruction for E-Commerce Search"
     selected: y
 
-  - venue: "WWW'2025"
+  - venue: "WWW 2025"
     mldm: y
     authors: "Y. Sun, H. Chen, Z. Fu, W. Lv, <b>Z. Liu</b>, H. Liu"
     title: "WasmGuard: Enhancing Web Security through Robust Raw-Binary Detection of WebAssembly Malware"
     selected: n
 
-  - venue: "AAAI'2025"
+  - venue: "AAAI 2025"
     mldm: y
     authors: "Y. Ma, Z. Chen, T. Liu, M. Tian, Z. Liu, <b>Z. Liu</b>, W. Luo"
     title: "What are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-boosted Mathematical Reasoning"
     selected: y
 
-  - venue: "AAAI'2025"
+  - venue: "AAAI 2025"
     mldm: y
     authors: "Y. Bai, X. Li, <b>Z. Liu</b>, Y. Huang, M. Tian, W. Luo"
     title: "Rethinking and Improving Student Learning and Forgetting Processes for Attention based Knowledge Tracing Models"
     selected: y
 
-  - venue: "AAAI'2025"
+  - venue: "AAAI 2025"
     mldm: y
     authors: "M. Hou, X. Li, T. Guo, <b>Z. Liu</b>, M. Tian, R. Luo, W. Luo"
     title: "Cognitive Fluctuations Enhanced Attention Network for Knowledge Tracing"
     selected: y
 
-  - venue: "AAAI'2025"
+  - venue: "AAAI 2025"
     mldm: y
     authors: "Z. Liu, Q. Liu, Y. Wang, W. Wang, P. Jia, M. Wang, <b>Z. Liu</b>, Y. Chang, X. Zhao"
     title: "SIGMA: Selective Gated Mamba for Sequential Recommendation"
     selected: y
 
-  - venue: "KDD'2025"
+  - venue: "KDD 2025"
     mldm: y
     authors: "S. Zhang, M. Wang, W. Wang, J. Gao, X. Zhao, Y. Yang, X. Wei, <b>Z. Liu</b>, T. Xu" 
     title: "GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems"
     selected: y
     
-  - venue: "TIST'2025"
+  - venue: "TIST 2025"
     mldm: y
     authors: "T. Guo, B. Zhan, S. Huang, J. Chen, X. Zhao, M. Hou, <b>Z. Liu</b>"
     title: "Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers"
     selected: y
 
-  - venue: "FDE'2025"
+  - venue: "FDE 2025"
     aied: y
     authors: "T. Liu, Z. Chen, Z. Fang, W. Luo, M. Tian, <b>Z. Liu</b>"
     title: "MathEval: A comprehensive benchmark for evaluating large language models on mathematical reasoning capabilities"
     selected: n
 
-  - venue: "MLJ'2025"
+  - venue: "MLJ 2025"
     mldm: y
     authors: "<b>Z. Liu</b>, S. Huang, T. Guo, M. Hou, Q. Liang"
     title: "A prompt-driven framework for multi-domain knowledge tracing"
     selected: y
 
-  - venue: "MLJ'2025"
+  - venue: "MLJ 2025"
     mldm: y
     authors: "<b>Z. Liu</b>, Y. Zheng, Z. Yin, J. Chen, T. Liu, M. Tian, W. Luo"
     title: "ArithmeticGPT: empowering small-size large language models with advanced arithmetic skills"
     selected: y
 
 
-  - venue: "ESWA'2025"
+  - venue: "ESWA 2025"
     mldm: y
     authors: "Y. Bai, X. Li, <b>Z. Liu</b>, Y. Huang, T. Guo, M. Hou, F. Xia, W. Luo"
     title: "csKT: Addressing Cold-start Problem in Knowledge Tracing via Kernel Bias and Cone Attention"
